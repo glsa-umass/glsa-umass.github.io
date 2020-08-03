@@ -1,0 +1,335 @@
+<html>
+
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<meta NAME="GENERATOR" CONTENT="Microsoft FrontPage 3.0">
+<title> SUBSCRIPTION Form</title>
+
+<!-- CSS style sheet -->
+<link href="glsa.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<br>
+<table width="620" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="fborder" style="table-layout: fixed">
+	<tr>
+    	<td>
+			<table width="620" border="0" cellpadding="10" cellspacing="0" style="table-layout: fixed">
+      			<tr>
+        			<td width="600">
+						<table width="600" height="30" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed">
+            				<tr>
+              					<td width="600" height="30" bgcolor="#0B5992" class="Title">
+									<div align="center">GLSA On-Line Subscriptions</div>
+								</td>
+            				</tr>
+          				</table>
+            			<form method="POST" action="cgi-bin/formmail.cgi">
+              				<input type="hidden" name="recipient" value="glsa@linguist.umass.edu">
+              				<input type="hidden" name="redirect" value="sent_subscription.htm">
+              				<input type="hidden" name="subject" value="Subscription">
+              				<table width="600" height="93" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed">
+                				<tr>
+                  					<td width="600" height="33" align="center"><img src="images/step1.jpg" width="35" height="33" alt="step1.jpg (1165 bytes)"></td>
+                				</tr>
+                				<tr>
+                  					<td width="600" height="20">&nbsp;</td>
+                				</tr>
+                				<tr>
+                  					<td width="600" height="20" bgcolor="#C9DBED">
+										<div align="center">Payment Contact Information</div>
+									</td>
+                				</tr>
+                				<tr>
+                  					<td width="600" height="20">&nbsp;</td>
+                				</tr>
+   				  	  	  	</table>
+              				<table width="600" height="" border="0" cellpadding="8" cellspacing="2">
+                				<tr>
+                  					<td width="160" height="20" align="left" bgcolor="#B9D0C8">Name</td>
+                  					<td width="420" height="20" bgcolor="#EEEEEE"><input name="Name" type="text" class="textbox" size="31"></td>
+                				</tr>
+                				<tr>
+                 					<td width="160" height="50" align="left" bgcolor="#B9D0C8">Billing Address</td>
+               					  	<td width="420" height="50" bgcolor="#EEEEEE"><textarea name="Billing_Address" cols="31" rows="4" class="textbox"></textarea></td>
+                				</tr>
+                				<tr>
+                  					<td width="160" height="20" align="left" bgcolor="#B9D0C8">Telephone Number</td>
+                  					<td width="420" height="20" bgcolor="#EEEEEE"><input name="Phone" type="text" class="textbox" size="31"></td>
+                				</tr>
+                				<tr>
+                  					<td width="160" height="20" align="left" bgcolor="#B9D0C8">E-Mail Address</td>
+                  					<td width="420" height="20" bgcolor="#EEEEEE"><input name="E_mail" type="text" class="textbox" size="31"></td>
+                				</tr>
+       				  	  	</table>
+							<br>
+              				<table width="600" height="93" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed">
+                				<tr>
+                  					<td width="600" height="33" align="center"><img src="images/step2.jpg" width="35" height="33" alt="step2.jpg (1165 bytes)"></td>
+                				</tr>
+                				<tr>
+                  					<td width="600" height="20">&nbsp;</td>
+                				</tr>
+                				<tr>
+                  					<td width="600" height="20" bgcolor="#C9DBED">
+										<div align="center">Payment Method</div>
+									</td>
+                				</tr>
+                				<tr>
+                  					<td width="600" height="20">&nbsp;</td>
+                				</tr>
+       				  	  	</table>
+              				<table width="600" height="100" border="0" cellpadding="8" cellspacing="2" style="table-layout: fixed">
+                				<tr>
+                  					<td width="580">
+                    					<p>
+											How would you like to pay?<br>
+                        					<br>
+                        					<input type="radio" value="Send_a_bill" checked name="HowPay">
+                							Send me a bill with every publication delivered.<br>
+                							<br>
+                							<input type="radio" name="HowPay" value="Charge_Credit_Card">
+                							Charge my credit card:
+										</p>								  
+									</td>
+                				</tr>
+           				  	</table>
+              				<br>
+              				<table width="600" border="0" cellpadding="8" cellspacing="2">
+                				<tr>
+                  					<td width="160" bgcolor="#B9D0C8">Name on Credit Card</td>
+                  					<td width="402" bgcolor="EEEEEE">
+                    					<!--webbot bot="Validation" startspan B-Value-Required="TRUE" -->
+                    					<!--webbot bot="Validation" endspan -->
+                    					<input name="Credit_Card_Name" type="text" class="textbox" size="31">
+                  					</td>
+                				</tr>
+								<tr>
+                  					<td bgcolor="#B9D0C8">Credit Card Number</td>
+                  					<td bgcolor="EEEEEE"><input name="Credit_Card_Number" type="text" class="textbox" size="31"></td>
+                				</tr>
+                				<tr>
+                  					<td bgcolor="#B9D0C8">Expiry Date</td>
+                  					<td bgcolor="EEEEEE"><input name="Credit_Card_Expiry" type="text" size="20"></td>
+								</tr>
+                				<tr>
+                  					<td bgcolor="#B9D0C8">Type of Card<</td>
+                  					<td bgcolor="EEEEEE">
+										<select name="Credit_Card_Type" size="1" onChange="this.form.Credit_Card_Type_Other.value='';" language="JavaScript">
+                      						<option value="VISA"> VISA </option>
+                      						<option value="MasterCard"> MasterCard </option>
+                    					</select>
+                  					</td>
+                				</tr>
+              				</table>
+							<br>
+              				<table width="600" height="20" border="0" cellpadding="0" cellspacing="0">
+                				<tr>
+                  					<td width="600" bgcolor="DDDDDD"><div align="center" class="copyright">PREPAYMENT: We strongly encourage subscribers to have a credit in their account.</div></td>
+                				</tr>
+              				</table>
+              				<br>
+              				<table width="600" border="0" cellpadding="8" cellspacing="2">
+                				<tr>
+                  					<td width="160" bgcolor="#B9D0C8">Prepay Amount</td>
+                  					<td width="402" bgcolor="EEEEEE">
+                    					<input type="text" name="Prepay_Amount" size="10" value="0.00">
+                  					</td>
+                				</tr>
+                				<tr>
+                  					<td valign="top" bgcolor="#B9D0C8">I would like to prepay by</td>
+                  					<td bgcolor="EEEEEE">
+										<input type="radio" name="Prepay" value="by_credit_card" checked>My Credit Card.<br>
+										<br>
+              							<input type="radio" name="Prepay" value="by_check">A check drawn on a US bank.<br>
+										<blockquote>
+											Please mail the check to:<br>
+                  							<br>
+                  							<span class="contact">
+												GLSA<br>
+                								Department of Linguistics, 226 South College<br>
+                								University of Massachusetts, <br>
+                								Amherst, MA 01003-7130<br>
+                								U.S.A.
+											</span>
+										</blockquote>
+									</td>
+                				</tr>
+              				</table>
+							<br>
+
+              				<table width="600" border="0" cellpadding="0" cellspacing="0">
+                			<tr>
+                  				<td width="600" height="30" align="center"><img src="images/step3.jpg" width="35" height="33" alt="step3.jpg (1240 bytes)">				  </td>
+                			</tr>
+                			<tr>
+                  				<td align="center">&nbsp;</td>
+                			</tr>
+                			<tr>
+                  				<td height="20" bgcolor="#C9DBED" align="center">Shipping Address</td>
+                			</tr>
+                			<tr>
+                  				<td>&nbsp;</td>
+                			</tr>
+                			<tr>
+                  				<td>
+									<div align="center">
+										[Leave this blank if the Shipping Address is the same as the 
+										Billing Address]
+									</div>
+								</td>
+                			</tr>
+              			</table>
+              			<br>
+              			<table width="600" border="0" cellpadding="8" cellspacing="2">
+                			<tr>
+                  				<td width="160" bgcolor="#B9D0C8">Ship to this Address:</td>
+                  				<td width="402" bgcolor="EEEEEE">
+									<textarea name="Shipping_Address" cols="31" rows="4" class="textbox"></textarea>
+								</td>
+                			</tr>
+                			<tr bgcolor="DDDDDD">
+                  				<td bgcolor="#B9D0C8">Ship Items to me by:</font></td>
+                  				<td bgcolor="EEEEEE">
+									<input type="radio" name="ShipBy" value="Surface_Mail" checked>Surface Mail<br>
+              						<input type="radio" name="ShipBy" value="Airmail">Airmail
+								</td>
+                			</tr>
+              			</table>
+						<br>
+              			<table width="600" border="0" cellpadding="0" cellspacing="0">
+                			<tr>
+                  				<td width="600" height="30" align="center"><img src="images/step4.jpg" width="35" height="33" alt="step4.jpg (1209 bytes)">					</td>
+                			</tr>
+                			<tr>
+                  				<td align="center">&nbsp;</td>
+                			</tr>
+                			<tr>
+                  				<td height="20" bgcolor="#C9DBED" align="center">Type &amp; Quantity</td>
+                			</tr>
+                			<tr>
+                  				<td>&nbsp;</td>
+                			</tr>
+                			<tr>
+                  				<td align="center">Which volumes would you like to receive? And how many copies of each?</td>
+                			</tr>
+              			</table>
+              			<br>
+              			<table width="600" border="0" cellpadding="8" cellspacing="2">
+                			<tr bgcolor="#B9D0C8">
+                  				<td width="500" height="30"><div align="center">Type</div></td>
+                  				<td width="62" height="30" align="center" bgcolor="#B9D0C8">Quantity</td>
+                			</tr>
+                			<tr bgcolor="EEEEEE">
+                  				<td>
+									<input type="checkbox" name="NELS" value="ON">NELS Proceedings (published annually)</td>
+                  				<td>
+									<div align="center">
+                      					<input type="text" name="NELS_Quantity" size="5" value="1">
+                  					</div>
+								</td>
+                			</tr>
+                			<tr bgcolor="EEEEEE">
+                  				<td>
+									<input type="checkbox" name="UMOP" value="ON">UMOP Proceedings (published at irregular intervals)
+								</td>
+                  				<td>
+									<div align="center">
+                     		 			<input type="text" name="UMOP_Quantity" size="5" value="1">
+                  					</div>
+								</td>
+                			</tr>
+                			<tr bgcolor="EEEEEE">
+                  				<td>
+									<input type="checkbox" name="Dissertations" value="ON">Dissertations (several published annually)
+								</td>
+                  				<td>
+									<div align="center">
+                      					<input type="text" name="Diss_Quantity" size="5" value="1">
+                  					</div>
+								</td>
+                			</tr>
+              			</table>
+              			<br>
+              			<table width="600" border="0" cellpadding="0" cellspacing="0">
+                			<tr>
+                  				<td width="600" height="30" align="center"><img src="images/step5.jpg" width="35" height="33" alt="step4.jpg (1209 bytes)"> </td>
+                			</tr>
+                			<tr>
+                  				<td align="center">&nbsp;</td>
+                			</tr>
+                			<tr>
+                  				<td height="20" bgcolor="#C9DBED" align="center">Important Information</td>
+                			</tr>
+                			<tr>
+                  				<td>&nbsp;</td>
+                			</tr>
+                			<tr>
+                  				<td>
+                    				<div align="center">
+										Your subscription will start with the next available issue of 
+										the series you are subscribing to.<br>
+                        				<br>
+                        				<strong>A 10% discount will apply to all subscription volumes.</strong><br>
+                        				<br>
+                						To order currently available items, please use the on-line or 
+										printed order forms supplied elsewhere in this website.<br>
+                						<br>
+                						You may cancel your subscription at any time by contacting 
+										us at <a href="mailto:glsa@linguist.umass.edu">glsa@linguist.umass.edu</a>.<br>
+                						<br>
+                						If there is anything else you would like to tell or ask us 
+										about your subscription, please enter it here:<br>
+                						<br>
+                						<textarea name="Other_Info" cols="40" rows="4" class="textbox"></textarea>
+                  					</div>
+								</td>
+                			</tr>
+                			<tr>
+                  				<td align="center"> </td>
+                			</tr>
+              			</table>
+						<br>
+              			<table width="600" border="0" cellpadding="0" cellspacing="0">
+                			<tr>
+                  				<td width="600" height="25" align="center">
+									<img src="images/step6.jpg" width="35" height="33"alt="step6.jpg (1223 bytes)">
+								</td>
+                			</tr>
+                			<tr>
+								<td align="center">&nbsp;</td>
+							</tr>
+                			<tr>
+                  				<td height="20" bgcolor="#C9DBED" align="center">Submit Subscription </td>
+                			</tr>
+                			<tr>
+                  				<td>&nbsp;</td>
+							</tr>
+                			<tr>
+                  				<td align="center"> 
+									Please review the information you have entered above to ensure 
+									that it is correct.<br>
+              						Then click the SUBMIT button.<br>
+              						<br>
+              						<input language="JavaScript" type="submit" value="SUBMIT" onClick="this.form.submit();" name="Finish">
+									<br>
+              						<p>
+										To Cancel this Subscription, click CANCEL.<br>
+                						You will be returned to the main GLSA webpage.<br>
+                						<br>
+                						<input language="JavaScript" type="reset" value="CANCEL" onClick="window.close();" name="Cancel">
+              						</p>
+              						<p>&nbsp; </p>
+								</td>
+                			</tr>
+              			</table>
+          			</form>
+		  		</td>
+      		</tr>
+    	</table>
+	</td>
+  </tr>
+</table>
+</body>
+</html>

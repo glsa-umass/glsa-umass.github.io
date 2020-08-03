@@ -1,0 +1,123 @@
+/***********************************************/
+/* glsa.css                                    */
+/* Use with GLSA html pages                    */
+/***********************************************/
+
+/***********************************************/
+/* HTML tag styles                             */
+/***********************************************/
+
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+ul {
+	line-height:20px;
+	list-style-type: square;
+}
+
+body {
+	background-color: #87A58D;}
+	
+.copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: none;
+	color: #000000;
+}
+.menu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #FFFFFF;
+	font-style: normal;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: normal;
+	background-color: #0B5992;
+}
+a.menu:visited, a.menu:link{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #FFFFFF;
+	font-style: normal;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: normal;
+	background-color: #0B5992;
+}
+a.menu:hover {
+	color: #C9CCED;
+	font-weight: normal;
+	text-decoration: none;
+}
+a.submenu:link, a.submenu:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color:#0000CC;
+	text-decoration: none;
+	font-weight: normal;
+}
+a.submenu:hover {
+	color:#FF0000;
+	text-decoration: underline;
+}
+.contact {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: none;
+	line-height: 20px;
+	color: #000000;
+}
+a:link, a:visited {
+	color:#0000CC;
+	text-decoration: none;
+	font-weight: normal;
+}
+a:hover {
+	color:#FF0000;
+	text-decoration: underline;
+}
+.selected {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-style: normal;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: normal;
+	background-color: #C9DBED;
+}
+.textbox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	width:400px;
+}
+.Title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	color: #FFFFFF;
+}
+.abTitle {
+	font-size: 14pt;
+	color: #000000;
+}
+.subtitle {
+	font-size: 14pt;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.publications {
+	font-size: 9pt;
+	font-weight: normal;
+	color: #000000;
+}
+.fborder {
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+}
+
+
+/********************* end **********************/
