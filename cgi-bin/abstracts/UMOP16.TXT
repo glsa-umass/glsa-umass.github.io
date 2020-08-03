@@ -1,0 +1,29 @@
+UMOP 16 1993 Phonological Representations $16 [UMOP16]
+
+(ed.) T. Sherer
+
+J. N. Beckman Feature organization and the Strong Domain Hypothesis in Zulu [LABIAL] phonology 
+
+A. E. Gnanadesikan The feature geometry of coronal subplaces 
+
+J. Kingston Size, structure, and markedness in phonological inventories 
+
+J.J. McCarthy A case of surface constraint violation 
+
+B. Rohrbacher Positionally determined [ATR] vowel harmony in Wolof 
+
+S. Rosenthall Unifying four phonological processes of prenasalized stop formation 
+
+J. Runner Cyclic effects on prosodic voicing assimilation 
+
+A. J. Schafer The syllable structure of Tamil nouns 
+
+T.D. Sherer English compensatory lengthening 
+
+R. Thorburn Syllable structure and syllabification in Yapese 
+
+S.C. Urbanczyk Infixing and moraic circumscription 
+
+L.J. Walsh Reduplication as evidence for the geometry of tone 
+
+

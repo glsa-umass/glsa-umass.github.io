@@ -1,0 +1,18 @@
+Modal Subordination, Anaphora and Distributivity
+
+ABSTRACT
+
+February 1987
+Craige Roberts, B.A,. Indiana University
+Ph.D., University of Massachusetts
+Directed by: Professor Barbara Partee
+
+The analysis of pronominal anaphora provides us with tools to explore linguistic structures involving the scope of operators. In this dissertation, I develop a theory of anaphora, modifying and extending existing proposals in the literature, and then use it to explore distributivity and related phenomena.
+
+I assume that pronouns are interpreted as variables, and base a theory of anaphora on the claim that there are two kinds of constraints on how these variables may be bound. One type of constraint involves the relative positions of antecedents and anaphors in the hierarchical structure of discourse. I propose an extension to Discourse Representation Theory wherein a relation of subordination between propositions is induced by their mood. Mood is analyzed in terms of modality, and establishes the position of a proposition in the Discourse Representation. The structure which results constrains both inference and the potential for anaphora. 
+
+The other type of constraint on anaphoric binding is based on the configurational notion of c-command in the Government and Binding Theory. Recognizing that the Binding Theory and the theory of discourse anaphora are both necessary in a comprehensive theory of anaphora permits a clarification and simplification of each. It is argued that the Binding Principles hold at S-structure, and that co-indexation is only a guide to interpretation in discouse, and not necessarily an indication of co-reference.
+
+This comprehensive theory of anaphora serves as tool for the exploration of the phenomenon of distributivity, including the group/distributive ambiguity in examples such as "four men lifted a piano". It is argued that distributivity arises in predication when either the determiner in the subject is quantificational or there is an implicit or explicit adverbial distributivity operator. Anaphoric phenomena associated with distributivity are shown to be a consequence of the scope of operators.
+
+This theory of distributivity, implemented in the mapping from S-Structures onto Discourse Representations, then provides further arguments that coindexation is not to be interpreted as coreference, and also illuminates the contribution of the number of a pronoun to its interpretation.

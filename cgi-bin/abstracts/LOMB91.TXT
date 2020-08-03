@@ -1,0 +1,23 @@
+LARYNGEAL FEATURES AND LARYNGEAL NEUTRALIZATION
+
+MAY 1991
+
+LINDA LOMBARDI
+B.A., BRANDEIS UNIVERSITY
+Ph.D., UNIVERSITY OF MASSACHUSETTS
+
+Directed by: Professor John J. McCarthy
+
+A system of three laryngeal features, called [voice], [aspiration], and [glottalization], is argued to be the correct representation of laryngeal distinctions in consonants, based on evidence from possible consonant systems and phonological rules. These features are shown to be privative or single-valued. It is shown that the process of voicing assimilation must be analyzed without use of a feature [-voice], as a combination of neutralization and spread. Neutralization and spreading involving aspiration and glottalization are also analyzed. Neutralization is argued to be a result of a positive well-formedness constraint, the Laryngeal Constraint: a Laryngeal node is only licensed in the configuration in (1).
+
+(1)          <s>
+             /        \
+Laryngeal   [+son]
+
+In any other position the violation of well-formedness will be repaired by delinking the node.
+
+In many languages word-internal syllable-final consonants  neutralize, but word-final ones do not. This is accounted for by Final Exceptionality: like Final Extrametricality, which allows otherwise forbidden segments at word-edge, otherwise forbidden feature specifications are allowed at word-edge. This makes the correct cross-linguistic prediction: word-final neutralization always correlates with word-internal neutralization, but word-internal neutralization can occur without word-final neutralization. 
+
+The Constraint can be further restricted: languages may neutralize laryngeal distinctions in obstruents and not in sonorants, or may neutralize only one laryngeal feature rather than the entire Laryngeal node. It is shown that the latter is not couterevidence to the existence of the node, since the majority of cases neutralize all distinctions. Sonorants are argued to be unspecified for [voice] until late in the phonology. They do not participate in neutralization of [voice] or in voicing spread until the postlexical phonology; voiced sonorants are the output of neutralization, and so must be the laryngeally unmarked type. Voiceless sonorants are analyzed as aspirated, which is necessary if there is no [-voice] feature, and has supporting evidence from phonological rules.
+
+

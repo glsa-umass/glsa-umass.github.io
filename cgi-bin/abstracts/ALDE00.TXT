@@ -1,0 +1,140 @@
+Morphologically Governed Accent in Optimality Theory
+
+Abstract
+
+This dissertation examines the influence of morphological factors on 
+stress and pitch accent.  Two basic types are recognized.  In root-
+controlled accent, inherent accent in a root overrides inherent affix 
+accent; as a result, affixal accent is only realized in words with 
+unaccented roots.  In affix-controlled accent, the presence of a 
+particular affix triggers one of several accentual mutations in the 
+stem:  deletion of accent (or a "dominance effect"), insertion of an 
+accent (often known as pre- or post-accentuation), and accent shift or 
+"flop".
+I argue that these two types of accentual behavior, despite important 
+differences, are united under the rubric of faithfulness constraints in 
+Optimality Theory.  Root-controlled accent is a consequence of the 
+privileged faithfulness status of roots over affixes, as has been shown 
+in other empirical domains such as vowel harmony.  Affix-controlled 
+accent is due to a novel type of constraint, anti-faithfulness, which 
+evaluates a pair of morphologically related words and requires an 
+alternation in the shared stem.
+The principal case of root-controlled accent studied in this dissertation 
+is the Uto-Aztecan language Cupeño.  In addition, I show how the 
+accentual systems of Japanese and Russian fall within the scope of root 
+faithfulness constraints.  The study of these cases leads to a 
+substantive restriction on the range of edge effects in accent systems, 
+and clarifies a role for root accentedness in blocking morpho-accentual 
+processes.
+A number of properties of affix-controlled accentual processes are 
+identified and shown to follow from the anti-faithfulness thesis.  Affix-
+controlled accent is (I) morphologically triggered, (II) stem-mutating, 
+and (III) grammar dependent.  (I-II) follow from the assumption that 
+anti-faithfulness operates on related words:  forcing an alternation in 
+a pair of words ensures that affix-controlled accent is morphological 
+because it contrasts two word classes.  Furthermore, as a relation 
+between words, anti-faithfulness only affects the interval of a word 
+which occurs throughout a paradigm, namely the stem (II).  Finally, 
+anti-faithfulness does not fully specify how a pair of words should 
+differ accentually; its specific effects therefore depend on the larger 
+grammar in which it is embedded (III).  
+Affix-controlled accent in Russian, Japanese, Cupeño, Limburg Dutch, 
+and Aguaruna (Jivaroan) is investigated in a series of case studies.  I 
+argue that anti-faithfulness constitutes an integrated theory of the 
+diverse morpho-accentual phenomena found in these languages, explains 
+the important differences between the accentual properties of roots and 
+affixes, and establishes parallels with non-accentual affix-controlled 
+phenomena.
+
+
+
+TABLE OF CONTENTS
+1. INTRODUCTION
+1.1   Morphologically Governed Accent in Optimality Theory .............1
+1.1.1   Goals...........................................................1
+1.1.2   Synopsis of Theoretical Arguments ..............................4
+1.1.3   Overview of the Dissertation ...................................11
+1.2   Lexical Accent and Prosodic Faithfulness .........................12
+1.2.1   Remarks on the Notion 'Accent' .................................12
+1.2.1.1   Observations .................................................12
+1.2.1.2   The Representation Question ..................................15
+1.2.2   A Theory of Prosodic Faithfulness ..............................17
+1.2.2.1   The Constraints ..............................................17
+1.2.2.2   Application of the Constraints ...............................19
+1.2.2.3   Consequences for Culminative Accent ..........................22
+
+2. ROOT-CONTROLLED ACCENT IN CUPENO
+2.1   Introduction .....................................................28
+2.2   Theoretical Background:  Root and Affix Faithfulness .............30
+2.3   Root Stress Inventory ............................................33
+2.3.1   The Data .......................................................34
+2.3.2   The Analysis ...................................................35
+2.4   Overriding Root Stress ...........................................38
+2.4.1   Data and Observations ..........................................38
+2.4.2   The Analysis ...................................................42
+2.4.3   Extending the Analysis .........................................47
+2.5   Discussion of Alternatives .......................................54
+2.5.1   A Level-Ordering Account .......................................54
+2.5.2   A Cyclic Analysis ..............................................56
+2.6   Summary and Implications .........................................58
+
+3. RESTRICTED EDGE EFFECTS IN ROOT-CONTROLLED ACCENT SYSTEMS
+3.1   Restricted Edge Orientation ......................................60
+3.1.1   Factorial Typology .............................................60
+3.1.2   Empirical Issues ...............................................64
+3.2   Extended Case Study:  Modern Russian .............................66
+3.2.1   Preliminaries ..................................................67
+3.2.2   Noun Stress:  The Basic Patterns ...............................68
+3.2.3   Extending the Analysis:  Verb Stress and Prefixed Words ........74
+3.3   Extended Case Study:  Tokyo Japanese .............................80
+3.3.1   Background .....................................................80
+3.3.2   Analysis of Japanese Word Accent ...............................83
+3.3.3   Analysis of Noun-Noun Compounds ................................85
+3.3.4   Influences of Prefixation on Word Accent .......................96
+3.4   Summary and Conclusion ...........................................109
+4. TRANSDERIVATIONAL FAITHFULNESS AND ANTI-FAITHFULNESS
+4.1   Morphemic Sources of Accentual Regularity ........................113
+4.2   Transderivational Correspondence Theory ..........................116
+4.2.1   Introductory Remarks ...........................................116
+4.2.2   Transderivational Faithfulness in Stress Neutral Affixation ....119
+4.2.2.1   Theoretical Assumptions ......................................119
+4.2.2.2   Application to Stress Neutral Affixation .....................121
+4.3   Transderivational Anti-Faithfulness ..............................128
+4.3.1   Introduction ...................................................128
+4.3.2   Transderivational Anti-Faithfulness ............................131
+4.3.2.1   Theoretical Assumptions ......................................131
+4.3.2.2   Application to Exchange Processes ............................135
+4.3.3   Implications of Transderivational Anti-Faithfulness ............141
+5. THE ROLE OF TRANSDERIVATIONAL ANTI-FAITHFULNESS IN MORPHO-ACCENTUAL PHENOMENA
+5.1   Towards an Integrated Theory of Affix-Controlled Accent ..........147
+5.1.1   Properties of Affix-Controlled Accent ..........................147
+5.1.2   Affix-Controlled Accent as Prosodic Anti-Faithfulness ..........150
+5.2   Dominance Effects as Transderivational Anti-Faithfulness .........153
+5.2.1   The Problem ....................................................153
+5.2.2   The Proposal:  Dominance Effects as the Negation of MAX-PROM ...156
+5.2.3   Case Study:   Dominance Effects in Russian .....................163
+5.2 4   Implications ...................................................173
+5.2.5   Discussion of Alternatives .....................................182
+5.3   Pre/Post-Accentuation as Transderivational Anti-Faithfulness .....190
+5.3.1   The Problem ....................................................190
+5.3.2   The Proposal:  Pre- and Post-Accentuation as Negation of 
+          DEP-PROM .....................................................193
+5.3.3   Implications ...................................................200
+5.3.3.1   Strict Base Mutation in Pre- and Post-Accentuation ...........200
+5.3.3.2   Dominant/Recessive Pre-Accentuation in Tokyo Japanese ........204
+5.3.3.3   Factorial Typology ...........................................207
+5.3.4   Discussion of Alternatives .....................................210
+5.4   Accent Shifts as Transderivational Anti-Faithfulness .............216
+5.4.1   The Problem ....................................................216
+5.4.2   Dragging Tone Mutation in Limburg Dutch:  Evidence for 
+          NO-FLOP ......................................................218
+5.4.2.1   Data and Observations ........................................218
+5.4.2.2   Tone in Monomorphemic Words ..................................220
+5.4.2.3   Tonal Mutation in Derived Words as ÂNO-FLOP-TONE .............223
+5.4.3   Case Study:  Accent Shift in Tokyo Japanese ....................227
+5.4.4   Extended Case Study:  Accent in Aguaruna .......................234
+5.4.4.1   Distribution of Accent in Underived Words ....................235
+5.4.4.2   Vowel Deletion and Accent Shift ..............................237
+5.4.4.3   Accent Shift in Derived Words ................................245
+BIBLIOGRAPHY ...........................................................251
+

@@ -1,0 +1,35 @@
+NELS 16 (1986) McGill University
+
+Berman, S., J-W. Choe & J. McDonough (eds.)
+
+Abney, S. & J. Cole - A Government-Binding Parser
+Aoun, J. - Bound Pronouns in Chinese
+Archangeli, D. - The OCP and Nyangumarda Buffer Vowels
+Broadwell, G. A. - A-bar Anaphora and Relative Clauses
+Chierchia, G. & P. Jacobson - Local and Long Distance Control
+Choe, H.S. - An SVO Analysis of VSO Languages and Parameterization: A Study of Berber
+Crain, S. & C. McKee - Acquisition of Structural Restrictions on Anaphora
+Davis, H. - Syntactic Undergeneration in the Acquisition of English: Wh-questions and the ECP
+Di Sciullo, A.M. & E.S. Williams - Noun Incorporation vs. Cliticization
+Elliott, W.N. & K.Wexler - A Principle Theory of Categorical Acquisition
+Finer, D.F. & E.I. Broselow - Second Language Acquisition of Reflexive Binding
+Giorgi, A. - The Proper Notion of C-command and the Binding Theory: Evidence from NPs
+Gorrell, P. - Natural Language Parsing and Reanalysis
+Haik, I. - Pronouns of Laziness
+Kamprath, C.K. - The Syllabification of Consonantal Glides: Post-Peak Distinctions
+Kenstowicz, M. - Multiple Linking in Javanese
+Kitagawa, Y. - Barriers to Government
+Kluender, R. - SATZCHEN: German Small Clauses as S's
+Lieber, R. - Quirky Mutations in an Autosegmental Framework
+Lillo-Martin, D. - Effects of the Acquisition of Morphology on Syntactic Parameter Setting
+Manzini, M. R. - On Control and Binding Theory
+Paradis, C. - Les Marqueurs de Classe en Pulaar (Fula): Strates et Syllabes
+Partee, B. H. - Ambiguous Pseudoclefts with Unambiguous Be
+Reuland, E. J. - Constraining the Relation between Morphology and Syntax
+Roberge, Y. - On Doubling and Null Argument Languages
+Safir, K. - On Implicit Arguments and Thematic Structure
+Schlindwein, D. - Tier Alignment in Reduplication
+Sells, P. - Coreference and Bound Anaphora: A Restatement of Facts
+Shlonsky, U. & M. Sigler - Unexceptional Exceptional Case Marking
+Sproat, R. - The Projection Principle and the Syntax of Synthetic Compounds
+Stowell, T. - Null antecedents and Proper Government

@@ -1,0 +1,13 @@
+Evidence for Phonological Categories from Speech Perception
+
+Jose R. Benki,   1998. 
+
+Abstract
+
+The nature of the categories that are basic in linguistic representation is an important issue in speech perception. How listeners extract messages from physical signals may depend on what the fundamental units of those messages are. In this dissertation, I present two experiments, designed to test how listeners use certain acoustic cues to classify English stop consonants with regard to two phonological dimensions, place of articulation and voicing. Statistical models of listener classification suggest that the categorization observed here is best described using the phonological category of distinctive feature. Features are argued to play a role in classification and are fundamental to speech perception.
+
+In experiment 1, 12 different VOT continua, using four types of F1transitions combined with the higher formant transitions appropriate for bilabials, alveolars and velars, were used to evaluate the effects of F1transition and place of articulation on voice classification. A logistic regression analysis suggests that F1 transition and place of articulation both affect [voice] classification, largely independently. Bilabials were more likely than velars to be judged [-voice], independent of F1 transition and VOT. At the same time, increasing F1 transition onset frequency and shortening the transition duration led to more [-voice] judgements, independent of place of articlulation and VOT.
+
+A two-dimensional stimulus continuum in which both VOT and F2 onset transition were varied in Experiment 2 in order to evaluate the interaction between [place] and [voice] classification. Loglinear techniques are used to measure the effects of perception of [place] and [voice] on each other as well as the effects of VOT and F2 onset on the perception of both phonological categories. Statistical models of the data suggest that the perception of [place] and [voice] affect each other, independent of the primary acoustic cues that give rise to the perception of [place] and [voice]. 
+
+

@@ -1,0 +1,36 @@
+PHOTOQUANTIFICATION 1989 Papers on Quantification
+
+NSF Grant Report (eds.) E. Bach, A. Kratzer, & B.H. Partee
+
+ 
+S. Berman An analysis of quantificational variability in indirect questions 
+
+S. Berman On certain differences between wh-phrases and indefinites 
+
+G. Brennan Modal quantification over individuals 
+
+M. Diesing Bare plural subjects, inflection, and the mapping to LF 
+
+K. von Fintel Exception phrases 
+
+K. von Fintel Theticity in Generative Grammar 
+
+A. Kathol Adverbial quantification and scrambled objects 
+
+N. Kawasaki Jibun-tachi and non-coreferential anaphora 
+
+A. Kratzer Stage-level and individual-level predicates 
+
+Y. Ono Mo 
+
+B.H. Partee Binding implicit variables in quantified contexts 
+
+P. Portner The semantic variability of gerunds 
+
+H. Rullman Indefinite subjects in Dutch 
+
+R. Schwarzschild Living on empty 
+
+A. Taub Collective predicates, aktionsarten and All 
+
+

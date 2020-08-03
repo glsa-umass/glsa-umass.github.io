@@ -1,0 +1,29 @@
+Deriving Economy: Syncope in Optimality Theory
+
+(August 2003)
+
+author: Maria Gouskova
+
+Directed by: Professor John J. McCarthy
+
+
+The dissertation argues that markedness is lenient and relative: a form 
+is marked only if there is another form that is unmarked. No 
+constraints ban structure for the sake of banning structure; there are 
+formal limits on the content of CON. The central consequence of this 
+view is that economy constraints are excluded on principle; economy 
+effects must instead follow from the interaction of independently 
+motivated constraints.
+
+While a range of economy effects is discussed, the empirical focus is 
+on syncope. Case studies investigate syncope in Hopi, Tonkawa, 
+Lillooet, Lushootseed, and Lebanese and Mekkan Arabic. Deleting vowels 
+satisfies a range of markedness constraints; moreover, the same 
+constraints that can be satisfied by syncope can also be satisfied by 
+other processes that may not involve removal of structure. The 
+standard "delete-where-you-can" view of syncope is argued to be 
+inadequate; furthermore, economy constraints can actually be harmful if 
+admitted into the grammar.
+
+
+

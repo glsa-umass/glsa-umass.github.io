@@ -1,0 +1,31 @@
+NELS 12 1982 (MIT 1981) [NELS 12]
+
+(eds.) J. Pustejovsky & P. Sells
+
+Y. Abe On the Representation of Argument Structure
+J. Aoun On the Logical Nature of the Binding Principles: Quantifier
+Lowering, Double Raisings of "There" and the Notion Empty Element
+M. Azkarate, D. Farwell, J. Ortiz de Urbina & M. Saltarelli Word Order and
+WH-Movement in Basque
+G. Chierchia An Autosegmental Theory of Raddoppiamento
+S. De Mey A Binding Theory for Tense
+B.E. Dresher Accentuation and Metrical Structure in Tiberian Hebrew
+K. Hale Preliminary Remarks on Configurationality
+M. Halle & J. Vergnaud On the Framework of Autosegmental Phonology
+W. Harbert Should Binding Refer to SUBJECT?
+P. Hirschbuhler VP Deletion and Across-the-Board Quantifier Scope
+R.D. Janda On Limiting the Form of Morphological Rules: German Umlaut,
+Diacritic Features, and the "Cluster-Constraint"
+H. Koopman Theoretical Implications of the Distribution of Quoi
+D.T. Langendoen & E.L. Battistella The Interpretation of Predicate
+Reflexive and Reciprocal Expressions in English
+B. Lust & T. Clifford The 3D Study - Effects of Depth, Directionality and
+Distance on Children's Acquisition of Anaphora: An Initial Report
+P. Muysken Mechanisms Constraining Word Order in Quechua: Alternatives to
+Phrase Structure
+L. Papademetre Metrical Structure and its Interaction with Vowel Deletion
+in the Northern Dialects of Modern Greek
+G.K. Pullum Free Word Order and Phrase Structure Rules
+E.J. Reuland Why Count Your Auxiliaries in Dutch
+T. Stowell A Formal Theory of Configurational Phenomena
+M. Wright Tone Sandhi and Vowel Changes in Fuzhou

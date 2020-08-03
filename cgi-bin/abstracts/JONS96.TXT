@@ -1,0 +1,23 @@
+Clausal Architecture and Case in Icelandic
+
+May 1996
+
+Johannes Gisli Jonsson, B.A., University of Iceland
+
+M.A., University of Iceland
+
+Ph.D., University of Massachusetts Amherst
+
+Directed by: Professor Hagit Borer
+
+ 
+
+The basic goal of this work is to explore three interrelated issues inIcelandic syntax: the identification of structural case positions, themechanisms for case checking and the role of case in NP licensing. It isargued that there are three VP-external argument positions (A-positions)in Icelandic: Spec-IP, Spec-TP and Spec-AgrOP (see Deprez 1989, Jonas1992, 1993, and Jonas and Bobaljik 1993). Nominative subjects in Icelandicare case-checked in the first two positions, but accusative objects arechecked in Spec-AgrOP or their base-generated position inside VP. There isalso a VP-external A'-position (apart from Spec-CP), Spec-NegP, which isthe landing site for negative objects in Icelandic. Functional heads (i.e.I, T or AgrO) check structural case under a spec-head relation, butlexical heads check (structural or inherent) under government.
+
+In contrast to much recent work on Icelandic syntax, the traditional viewthat A-movement is always case-driven is defended in this thesis. It isargued that inherently case-marked NPs move to Spec-IP or Spec-TP to havecovert nominative case checked as inherent case in Icelandic is irrelevantfor satisfaction of the Case Filter. Inherently case-marked objects inIcelandic also need covert accusative case to satisfy the Case Filterwhether they stay in situ or move to Spec-AgrOP. This approach to quirkyarguments is used as a basis for a new analysis of nominative objects andagreement in Icelandic in finite as well as non-finite clauses.
+
+An NP can also satisfy the Case Filter by case transmission inexpletive-argument chains. Case is transmitted from the expletive inSpec-IP to the argument in the expletive passive/unaccusative construction(Safir 1985, Burzio 1986), but from the argument in Spec-TP to theexpletive in the expletive-TP construction. There are certain semanticrestrictions on arguments associated with expletives in Icelandic (andarguments in Spec-IP or Spec-AgrOP) but they are independent of case andfollow from the Mapping Hypothesis of Diesing (1992), the ShortestDerivation Requirement and other independently motivated principles ofgrammar.
+
+ 
+
+

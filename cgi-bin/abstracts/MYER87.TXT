@@ -1,0 +1,19 @@
+ABSTRACT
+
+TONE AND THE STRUCTURE OF WORDS IN SHONA
+
+SEPTEMBER 1987
+
+SCOTT MYERS, B.A., UNIVERSITY OF OREGON
+
+PhD., UNIVERSITY OF MASSACHUSETTS
+
+Directed by: Professor E. O. Selkirk
+
+This dissertation is concerned with the morphology and tonology of Shona, a Bantu language spoken in Zimbabwe. These two topics are treated together because, as I argue, they are inextricably linked: the tone rules are sensitive in various ways to morphological structure, and this sensitivity in turn provides crucial information about that structure.
+
+After a brief introduction to the language, we turn to questions about the structure of words in Shona. I argue that Shona word structure is ordered into two levels, stem and word, which can be characterized by a simple context-free grammar. But the word so defined is not the traditional word that has been assumed in the orthography and in most linguistic studies of the language. I argue that the grammar is complicated and crucial generalizations are lost if this traditional word is considered to be a syntactic or morphological unit. Rather, it is to be analyzed as a phonological word, i.e. a derived domain for phonological rules. I present an algorithm for parsing Shona phrase markers into phonological words, within the universal theory of phonological domains developed in recent work by E. O. Selkirk.
+
+The domains defined in the second chapter -- stem, word, phonological word and phrase -- are then exploited in an analysis of Shona tone patterns in Chapter Three. Tone patterns from various dialects are examined and compared: Zezuru, Karanga, Manyika, and Ndau. It is shown that insight can be gained into these patterns if we assume the domains defined in Chapter 2, together with some general constraints on phonological representations including in particular the Obligatory Contour Principle. Given these assumptions, it is possible to reduced the basic tonology of Shona to a single rule of assimilation and two rules of dissimilation.
+
+

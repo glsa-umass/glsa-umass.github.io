@@ -1,0 +1,25 @@
+ABSTRACT
+
+SYLLABIFICATION AND CONSONANT COOCCURRENCE CONDITIONS
+
+FEBRUARY 1993
+
+GREGORY A. LAMONTAGNE
+
+B.A., McGILL UNIVERSITY
+
+Ph.D., UNIVERSITY OF MASSACHUSETTS
+
+Directed by: Professor John J. McCarthy
+
+Standard accounts of consonantal cooccurrence restrictions appeal to theories of the syllable which assume that the distribution and form of consonant clusters follow from the construction of prosodic units. These theories typically appeal to highly specialized conditions which are of little use in constraining other types of phonological phenomena. Moreover, these theories are unable to characterize restrictions which hold between separate syllables.
+
+This thesis presents a modular characterization of segmental cooccurrence restrictions. Here, independently motivated phonological and phonetic principles interact to constrain the form and distribution of consonant clusters-- two examples discussed are the OCP and the effects of gestural overlap.
+
+I illustrate that such a modular theory of syllable-related phenomena adequately accounts for both the assignment of prosody to a string and the restrictions governing consonant cooccurrence. Since this theory does not appeal to positional distinctions like those encoded within the primitives onset and rime, it is free to constrain both tauto- and heterosyllabic clusters.
+
+Generalizations exhibited by English consonant clusters are discussed and accounted for in terms of (general) prosody-independent constraints. Extensive use of a machine readable dictionary aided in determining the precise scope of these generalizations.
+
+Other issues discussed are (a) lack of release correlating with the presence of certain types of cooccurrence restrictions; (b) the role of consonant morafication in determining whether or not a language appeals either to stray erasure or epenthesis operations; and (c) the representation of s-stop sequences in English, given their participation in noncontiguous cooccurrence restrictions.
+
+

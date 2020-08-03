@@ -1,0 +1,15 @@
+Syntactic Complexity: Evidence for Discontinuity and Multidomination 
+September 1990 
+
+James P. Blevins, 
+B.A., Bishop's University Ph.D., University of Massachusetts 
+
+Directed by: Professors Emmon Bach and F. Roger Higgins 
+
+Generative analyses have standardly assumed severe constraints on the form of syntactic representations. This thesis explores consequences of relaxing the undermotivated constraints that prohibit discontinuous and converging configurations. A principal benefit of this revision is that it faciolitates the assignment of a uniform constituent analysis to constructions that exhibit different constituent orders. This in turn permits a more general account of structure-sensitive phenomena involving anaphora and extraction, and provides a means of extending configurational definitions to derived constructions and languages with variable or otherwise problematic word order conventions. 
+
+Chapter 2 presents an arboreal model of phrase structure which admits discontinuity and multidomination by partially dissociating order and structure, and relaxing the requirement that each node have a unique parent. Chapter 3 argues for a discontinuous constituent analysis of the Celtic languages Irish, Welsh and Breton, which conform to a dominant VSO pattern. Chapter 4 examines the word order patterns of the Polynesian language Niuean, which again instantiates a VSO order, and proposes a multidomination analysis of the Niuean raising constructions described by Seiter (1980). Chapter 5 examines subordinate Germanic constructions and suggests an analysis which assigns intercalated structural descriptions to cross-serial dependencies. Chapter 6 suggests a strategy for assigning an articulated hierarchical structure to free word order or 'nonconfigurational' languages, and reconsiders the question of Dyirbal's structural ergativity. 
+
+Chapter 7 presents arguments, based on anaphoric and extraction domains, that unbounded dependency constructions in English instantiate a canonically discontinuous structure. Chapter 8 adumbrates strategies for admitting some of the discontinuous representations proposed in earlier chapters. Chapter 9 briefly summarizes previous arguments, examines some unresolved issues, and considers the correspondence between discontinuous structural analyses, and conventional representations containing 'gaps'. 
+
+

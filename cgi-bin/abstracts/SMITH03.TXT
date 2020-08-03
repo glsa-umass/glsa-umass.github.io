@@ -1,0 +1,15 @@
+Phonologically prominent or "strong" positions are known for their ability to
+resist positional neutralization processes such as vowel reduction or place
+assimilation.  However, there are also cases of neutralization that affect
+only strong positions, as when stressed syllables must be heavy, default
+stress is inserted into roots, or word-initial onsets must be low in
+sonority.  This dissertation shows that phonological processes specific to
+strong positions are distinct from those involved in classic positional
+neutralization effects because they always serve to augment the strong
+position with a perceptually salient characteristic.  Formally, positional
+augmentation effects are modeled by means of markedness constraints
+relativized to strong positions.  Because positional augmentation constraints
+are subject to certain substantive restrictions, as seen in their connection
+to perceptual salience, they also have implications for the relationship
+between functional grounding and phonological theory.
+        

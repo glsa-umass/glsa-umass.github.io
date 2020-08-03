@@ -1,0 +1,22 @@
+Topics in the Phonology of Irish
+
+May 1991
+
+Máire Ní Chiosáin, 
+B.A. University College Dublin
+
+Ph.D., University of Massachusetts
+
+Directed by: Professor John J. McCarthy
+
+ 
+
+This work examines a range of phenomena in the phonology of Modern Irish, in particular the initial consonant mutations, distinctive palatalization and epenthesis and compensatory lengthening. A convergence of evidence from these different domains argues for the theoretical framework adopted, in particular those of Feature Geometry Theory and Moraic Theory. The articulated structures of Feature Geometry Theory allow for a more principled account of the initial consonant mutations than is possible with other theories. The epenthesis and lengthening processes may be accounted for only within a prosodic theory based on syllable weight. issues bearing on Underspecification Theory are also addressed.
+
+In Chapter 2, the initial consonant mutations that express morphological distinctions in Irish are discussed. The following claims are argued for: First, these mutations are the result of rules, rather than morphological affixation. Second, these rules are blocked by linked heteromorphemic structure, however, this Inalterability effect cannot be captured by current proposals in the literature. Rather, a more general condition on structural conditions on rule application is proposed. Third, vowel stems in Irish are argued to have underspecified onsets. The range of prothetic consonants that occur preceding vowel-initial stems in certain morphological environments is shown to be the surface realizations of these onsets.
+
+Chapter 3 focusses on the Place features and palatalization. It is argued, on the basis of evidence involving the initial consonant mutations and assimilation, that the primary and secondary place features must be represented independently. Of further interest are data involving consonant-vowel interaction which argue for context-sensitive Radical Underspecification, whereby lexical and default feature values are relativized to the categories for which they are defined. 
+
+In Chapter 4 a unified prosodic account is given of a number of epenthesis and vowel-lengthening processes in Irish. The epenthesis process discussed is not conditioned in an obvious syllabic way, nor is the vowel-lengthening a typical case of compensatory lengthening following deletion of segmental material. Rather, both processes are the result of the transfer, and thereby the preservation, of prosodic weight within the syllable. 
+
+

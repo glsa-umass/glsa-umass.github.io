@@ -1,0 +1,10 @@
+Polarity Licensing and Wh-phrase Quantification in Chinese
+
+Jo-Wang Lin 
+1996
+
+Abstract
+
+This dissertation investigates the nature of the different interpretations of Chinese wh-phrases within a framework of formal semantic theories. Chapter 1 introduces the wh-constructions that I analyze and outlines the theoretical framework. Chapters 2 and 3 are devoted to 'wh...dou' constructions which I argue are elliptical 'wulun'-constructions ('no-matter'-constructions). I argue that 'dou' ('all') is a generalized distribution operator in the sense of Schwarzschild (1991). Its function in 'wh..dou' constructions is to distribute over the members of the generalized union formed by the possibly null 'wulun'. This analysis not only accounts for many important semantic properties of 'wh...dou' constructions but gives a unifying analysis of 'dou' in different contexts. Chapter 4 discusses the distribution of polarity wh-phrases and their licensing mechanism. I propose that Chinese polarity wh-phrases are analyzed as restricted free variables. They are subject to a non-entailment-of existence condition which forces them to appear only in contexts whre indefinites do not have existential import. Finally, chapter 5 examines donkey anaphora in bare conditionals and 'ruguo/yaoshi'-conditionals ('if'-conditionals). I show that both types of constructions allow an anaphoric wh-phrase or pronoun to be linked to an antecedent wh-phrase, but with different conditions. Following Cheng and Huang (to appear), I propose that anaphoric wh-phrases must be analyzed as variables regardless of the type of construction in which they appear. In constrast, the status of anaphoric pronouns depends upon the construction in which they appear. Donkey pronouns in 'ruguo/yaoshi'-conditionals should be analyzed as E-type pronouns, whereas donkey pronouns in bare conditionals should be analyzed as variables of some sort. The conclusions imply that both the unselective binding approach and the E-type approach to donkey anaphora are needed in order to account for the full range of donkey anaphora in natural language. 
+
+

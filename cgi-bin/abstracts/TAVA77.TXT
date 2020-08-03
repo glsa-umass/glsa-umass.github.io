@@ -1,0 +1,20 @@
+Structural Principles in the Acquisition of Complex Sentences
+
+Susan L. Tavakolian, B.A., University of California at Los Angeles
+
+Ph.D., University of Massachusetts
+
+Directed by: Professor Thomas Roeper
+
+The present study proposes two restrictions on children's acquisition of complex sentences. One proposal deals with children's structural analysis of multiple-clause sentences and the other concerns children's interpretation of proforms. It is proposed that children's initial hypothesis about the structure of a multiple-clause sentence is that the sentence consists of conjoined simplex sentences. It is further suggested that a missing noun phrase in the string is assigned subject status and is interpreted as being coreferential with the subject of the first clause. This set of rules for assigning structure to a string and determining a referent for a missing noun phrase is called the "conjoined-clause analysis".
+
+A comprehension experiment with children aged three to five years provides supporting evidence for the conjoined-clause analysis. Children were tested on their comprehension of relative clauses, verbal complements, conjoined clauses and sentences with "in order to" clauses. Children's responses to all four sentence types supported the proposed analysis.
+
+It is also proposed that children rely on subcategorization information contained in the lexical entries of verbs to help parse and interpret sentences. This proposal is not tested through direct experimentation, but is the result of plausible model construction.
+
+Finally children's interpretation of missing subjects and pronominal objects is examined. We propose that children utilize the same rules to interpret both proforms. Evidence from children's responses to conjoined clauses, to sentences with sentential subjects and to verbal complements supports this proposal. Children's choice of an antecedent for the proform in sentences with sentential subjects provides the motivation for a rule of noncoreference.
+
+In both the structural analysis of strings and the interpretation of proforms we argue that children prefer shallow structures which lack embedding. Some implications of children's reliance on precedence relationships rather than hierarchical relationships are discussed in the conclusion. A principle of proposed to account for children's preference for conjoined rather than embedded structures and an extension of the conjoined-clause analysis to Japanese is outlined.
+
+Children's analysis of multiple-clause sentences as conjoined simplex clauses and their collapsing of gaps and pronouns in the application of rules determining anaphoric relationships restrict the kinds of linguistic hypotheses a child makes at a certain stage of language development. Therefore the total number of hypotheses a child has to consider is reduced. Limitations on the number and kinds of hypotheses children can consider in constructing a grammar help explain how children learn their language and can help account for the rapidity of linguistic development.
+

@@ -1,0 +1,19 @@
+PHONOLOGY WITH TERNARY SCALES
+
+MAY 1997
+
+AMALIA ELISABETH GNANADESIKAN, A.B., PRINCETON UNIVERSITY
+
+Ph.D., UNIVERSITY OF MASSACHUSETTS AMHERST
+
+Directed by: Professor John J. McCarthy
+
+
+Abstract 
+This work proposes a series of ternary scales which make certain phonological distinctions usually made with binary or privative features. The dissertation focuses on the Inherent Voicing scale, which has the values Voiceless Obstruent, Voiced Obstruent, and Sonorant. This scale replaces the traditional features [voice] and [sonorant]. Other scales proposed are the Consonantal Stricture scale (stop, fricative, approximant/vocoid) and the Vowel Height scale (low, mid, high), which replace [continuant], [consonantal], [high] and [low].
+
+Applied within Optimality Theory, the ternary scales framework provides natural explanations for a number of phonological processes which are opaque in binary models. A ternary scale groups together certain phonological classes, while also making a statement that some values on the scale are closer to each other than others. Specifically, some values are adjacent on the scale and others not. This statement is impossible to make in binary features, but is necessary to capturing certain phonological phenomena. Once assimilation constraints and faithfulness constraints are allowed to make reference to the order and adjacency of the scale values, a natural explanation emerges for previously puzzling processes, such as chain shifts, attraction (as when voiceless obstruents voice before sonorants, or low vowels become mid before high vowels) and coalescence (as when low vowels and high vowels coalesce to mid). Other, more apparently binary processes (such as voicing assimilation or neutralization in obstruents) are also analyzed on the ternary scale. Such processes are part of a larger class of phenomena which call for a ternary analysis.
+
+Chapter 2 considers assimilation and attraction on the Inherent Voicing scale, showing that voicing assimilations in obstruents are a subset of assimilations occurring on the full ternary scale. Chapter 3 analyzes chain shifts (where voiceless obstruents voice and voiced obstruents become sonorants) as one-step movements along the ternary scale, caused by faithfulness constraints which require that the output stay near the input. Chapter 4 examines the effects of the markedness of voiced obstruents (including coda neutralization) in the context of the Inherent Voicing scale. Chapter 5 turns to the Consonantal Stricture Scale and Vowel Height Scale, applying analyses developed in earlier chapters.
+
+

@@ -1,0 +1,39 @@
+ROOT AND EPISTEMIC MODAL AUXILIARY VERBS
+
+FEBRUARY 1993
+
+VIRGINIA M. BRENNAN, B.A., YALE UNIVERSITY
+
+M.A., COLUMBIA UNIVERSITY
+
+Ph.D., UNIVERSITY OF MASSACHUSETTS
+
+Directed by: Professor Barbara H. Partee
+
+I argue that English modal auxiliaries have an array of logical types:
+they function as sentence operators, as predicates, and as variable
+binding operators. Chapter One introduces the root/epistemic distinction
+and earlier treatments of it in the literature of generative grammar and
+model theoretic semantics. An extensive descriptive section in Chapter Two
+establishes precisely the empirical characteristics of the distinction,
+which are confined to the semantics. I then account for these
+characteristics by positing two semantic types for modal auxiliaries: the
+first type is that of a sentence operator and is at work in the
+interpretation of modal sentences with an epistemic sense and for those
+with a deontic 'ought-to-be' sense; the second type is that of a relation
+between a property and an individual and it is at work in the
+interpretation of modal sentences expressing ability, disposition, rights
+and obligations (traditionally, the root interpretations). The link
+between the interpretive class of the modal sentence and the type of the
+modal expression in Intensional Logic is not drawn in the lexicon, but is
+accounted for by the native speakers' intuitions about what sort of
+notions make sense as modal properties and what as modal propositions. In
+Chapter Three, I turn to another class of interpretations of modal
+sentences, exemplified by the sentence, 'A basketball player can be
+short'. After demonstrating that the modal auxiliary functions as a
+variable binder in such sentences, I go on to expand the inventory of
+types associated with modal auxiliaries to include the type associated
+with variable binding operators.
+
+
+

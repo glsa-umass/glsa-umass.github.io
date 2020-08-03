@@ -1,0 +1,38 @@
+NELS 14 1984 (UMass 1983) [NELS14]
+
+(eds.) C. Jones & P. Sells
+
+J. Aoun Generalized Binding in Chinese
+H. Borer The Projection Principle and Rules of Morphology
+T. Borowsky, J. Ito & R. Mester The Formal Representation of
+Ambisyllabicity: Evidence from Danish
+G. Chierchia & M. Rooth Configurational Notions in Discourse
+Representation Theory
+E. Engdahl Subject Gaps: An Asymmetry between Questions and Relative
+Clauses in Norwegian
+C. Georgopolous Resumptive Pronouns, Syntactic Binding, and Levels of
+Representation in Belauan
+I. Heim A Note on Negative Polarity and Downward Entailingness
+L. Horn Ambiguity, Negation and the London School of Parsimony
+O. Jaeggli Subject Extraction and the Null Subject Parameter
+C. Jakubowicz On Markedness and Binding Principles
+R. Kempson Anaphoric Binding, the Compositionality Requirement and the
+Semantics-Pragmatics Distinction
+M. Kenstowicz The Null-Subject Parameter in Modern Arabic Dialects
+H. Koopman On Deriving Deep and Surface Order
+S. Lappin Predication and Raising
+D. Lebeaux Anaphoric Binding and the Definition of PRO
+B. Levergood Rule Governed Vowel Harmony and the Strict Cycle
+J. Levin Government Relations and the Distribution of Empty Operators
+M. Moortgat A Fregean Restriction on Metarules
+M. Phinney Subjectless Sentences in the Acquisition of Spanish and English
+D. Pulleyblank Autosegmental Accent
+J. Pustejovsky Opacity and the Accessibility of Subject in German A.C.I.
+Constructions
+M. Rooth How to Get Even with Domain Selection
+M. Saito On the Definition of C-Command and Government
+R. Sproat INFL and the Configurationality of VSO Languages
+L. Stowe A Subject/Object Asymmetry in Parsing
+L. Tuller Datives in Hausa
+M. Wright The CV-Skeleton and Mapping in Navajo Verb Phonology
+ 

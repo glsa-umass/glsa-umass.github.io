@@ -1,0 +1,13 @@
+The Language of Propositions and Events
+
+Alessandro Zucchi
+
+A theory of nominalization should specify the relation between noun meaning and verb meaning. At least for some classes of nouns, such a theory should also provide a general and systematic way of deriving noun meanings from verb meanings. This is the case, for example, for event-denoting ingof-Nouns. The meaning of these nouns must be derived by a rule from the meaning of the corresponding verb, since there is evidence that they are not listed in the lexicon.
+
+A theory of nominalization should also account for the meaning differences and the distributional differences among various kinds of nominals and that-clauses. Following Zeno Vendler, I argue that some of these differences are accounted for by the distinction between propositional entities and event-like entities, and by the semantic selection properties of predicates.
+
+I propose a semantics for English nominalization based on Kratzer’s (1987) semantics of situations. The central notion of this semantics is the part of-relation among possible situations. This theory provides a general way of recovering the meaning of event-nouns from the meaning of the corresponding verb. Moreover, it is able to account for the distributional and semantic differences among different kinds of nominals and that-clauses. 
+
+A compositional approach to the semantics of NPs raises the issue of the argument structure of nouns. I discuss different accounts of the role of the of-phrase and of the by-phrase with event-nouns. I provide some evidence that they have argument status. Italian infinitival NPs provide some cross-linguistic evidence for this conclusion. The semantics for English nominalization I develop serves also as a tool for investigating the difference of interpretation derived (and ingof) NPs show in different contexts. I address the issue of why these NPs are paraphraseable by that-clauses in some context, but not in others.
+
+

@@ -1,0 +1,19 @@
+The Semantics of Definite and Indefinite Noun Phrases
+
+September 1982
+
+Irene R. Heim, 
+M.A. (Ludwig-Maximillians-Universität)
+Ph.D. (University of Massachusetts)
+
+Directed by: Professor Barbara Partee
+
+Logical semanticists have standardly analyzed definite and indefinite descriptions as quantifiers, and definite pronouns as variables. This dissertation explores an alternative analysis, according to which all definites and indefinites are quantifier-free, i.e., consist of an essential free variable and the descriptive predicate (if any). For instance, "A cat arrived" is analyzed as "cat(x) & arrived(x)." The existential force that such sentences carry in their unembedded (and some of their embedded) uses is attributed not to the indefinite article, but to principles that govern the interpretation of variables in general. 
+
+The primary motivation for this variable-analysis is that it leads to a straightforward account of indefinites serving as antecedents for pronouns outside their scope, as in the so-called "donkey sentences." These are handled by combining the variable-analysis of indefinites with a treatment of quantifiers as basically unselective, drawing on work by David Lewis. 
+
+Since a variable-analysis of both definites and indefinites prima facie obliterates the distinctions between the two, it must be accompanied by a new theory of the definite-indefinite contrast. This theory must account for the different conditions under which definites and indefinites can get bound, and for the exclusive capacity of definites for deixis and anaphora. All these differences can be predicted if the uniform semantic analysis of definites and indefinites is supplemented by suitable assumptions about their contrasting felicity conditions (presuppositions): Felicitous definites must be "familiar" variables, felicitous indefinites much be "novel" variables.
+
+Familiarity may be a matter of having an antecedent in the text, or else of having a contextually salient referent. The underlying concept of familiarity that unites these two cases is best captured in an enriched semantic theory, which includes a further level of analysis, here called the "file" level. A major part of the dissertation is devoted to developing and motivating such a theory of "file change semantics," and to making precise its relation to conventional semantics. 
+
+

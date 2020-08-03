@@ -1,0 +1,79 @@
+Linguistic Principles in Children's Grammar of Complement Subject Interpretation
+
+(August 1978)
+
+Helen Goodluck, B.A., Lancaster University
+
+M.A., Brown University
+
+Ph.D., University of Massachusetts
+
+Directed by: Professor Thomas Roeper
+
+ 
+
+As a partial explanation of the child's ability to master his native
+language, it has been proposed that linguistic universals limit the
+child's hypotheses about the structure of his language. The dissertation
+is a study of the role of (putatively universal) principles governing the
+adult grammar of some English complement types in the grammar of children
+aged four to six years.
+
+
+Three types of complements with "missing subjects" are studied:
+infinitival complements to verbs like 'tell'; '(in order) to' clauses; and
+participial complements introduced by a temporal preposition ('while',
+'before' and 'after'). The adult grammar is first sketched. Two conditions
+governing the rules for interpreting the subject of these complements are
+set forth: (1) The matrix NP that is interpreted as the complement subject
+must c-command the complement subject position. Some problematic cases for
+this condition are also considered. (2) The rule(s) of complement subject
+interpretation must apply at a level of structure prior to the application
+of stylistic transformations such as complement preposing. The conditions
+(1) and (2) are assumed to be linguistic universals.
+
+
+Children's comprehension of infinitival and participial complements was
+tested in two toy manipulation experiments. In general, support was found
+for the presence of candidate universals in childrens' grammar.
+The response patterns to complements in active matrix sentences and
+sentences containing passive and locative PPs are consistent with the
+c-command condition on complement subject interpretation, given that
+children may misanalyze complements to the S node ('(in order) to' and
+temporal participial complements) as VP constituents at an early stage.
+Exceptions to this condition in adult grammar are paralleled by
+acquisition data from these and other experiments.
+
+
+The pattern of responses for participial complements in preposed position
+is interpreted as evidence that complement subject interpretation applies
+at a level of structure prior to the complement preposing rule.
+The results with preposed complements are also used to suggest that the
+avoidance of backwards pronominal and backwards subject anaphora found in
+other research on child language is characteristic only of constructions
+in which coreference is optional in the adult language.
+
+
+A third experiment comparing children's responses to temporal participial
+complements and relative clauses in active and passive sentences was
+carried out to investigate the hypothesis that some of the results of the
+first experiment reflected the child's use of a parsing strategy proposed
+in previous research (the conjoined clause analysis), rather than
+knowledge of the c-command condition. This hypothesis was not supported by
+the results. Some implications of this experiment for the child's phrase
+structure rules and the status of the conjoined clause analysis are
+examined.
+
+
+The final section of the dissertation reviews the relationship between
+linguistic theory and acquisition data in the light of the experimental
+results obtained, and discusses the implications for a learning theory of
+natural language of the analysis of children's grammar presented in the
+dissertation.
+
+
+Data gathered on children's comprehension of temporal prepositions is
+summarized in an appendix.
+
+
+

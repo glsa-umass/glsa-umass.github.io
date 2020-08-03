@@ -1,0 +1,19 @@
+THE PHONOLOGY OF LIQUIDS
+
+FEBRUARY 1997
+
+LAURA WALSH DICKEY, B.A., MCGILL UNIVERSITY
+
+Ph.D., UNIVERSITY OF MASSACHUSETTS, AMHERST
+
+Directed by: Professor John J. McCarthy
+
+This dissertation is an attempt to discern the nature of liquid consonants. The evidence amassed here principally addresses questions of the featural content of liquids along with the hierarchical relations among those features. One of the major findings of this study is the phonological validity of the class of liquids, defined as rhotics and sonorant laterals. Further, liquids are actually differentiated from each other by place features, not by manner features. I demonstrate that there is no need to add manner features to the theory to distinguish among liquids.
+
+The topic of Chapter 2 is laterals. The objective of this chapter is to see what phonologically unites the various lateral types and also what divides them. We see that laterals are defined by a Corono-Dorsal place of articulation complex. Both coronal and dorsal activity is motivated phonologically and phonetically for all types of laterals. I also show in this chapter that the feature [lateral] is redundant and phonologically invalid.
+
+Chapter 3 takes on the nebulous group of r-sounds, or "rhotics". Rhotics have long been grouped together, but have rarely been examined for phonological classhood. The evidence presented in this chapter supports a phonological class of rhotics, despite the lack of a single defining phonetic characteristic. I further claim that all rhotics have a non-primary Laminal node.
+
+Chapter 4 brings together laterals and rhotics and addresses the question of whether there is a class which subsumes both groups. I claim that liquids are indeed a natural class defined by the major class feature [liquid]. Rhotics and sonorant laterals, but not obstruent laterals, comprise the class of liquids. Further, segments within the class of liquids are distinguished from each other by place of articulation specifications. All liquids are required to have a complex, or branching, Place node. In this chapter, there is also a discussion of the mechanisms invovled in liquid dissimilation.
+
+Chapter 5 is a summary of the findings in the dissertation along with the phonological representations of the various liquid phonemes.

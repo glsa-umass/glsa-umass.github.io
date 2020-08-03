@@ -1,0 +1,85 @@
+A/A-bar Chain Uniformity
+
+May 1994
+
+Rejean Canac Marquis, B.A., Universite du Quebec a Montreal
+
+M.A., Universite du Quebec a Montreal
+
+PH.D., University of Massachusetts Amherst
+
+Directed by: Professor Margaret Speas
+
+ 
+
+This dissertation defends a theory of strict Chain Uniformity based on the
+A/A-bar distinction, in part in response to apparent shortcomings for an
+A/A-bar syntactic typology. The problems originate with the multiplication
+of new functional categories witnessed in the late 80's, whereby new
+positions were created without any provision to determine their A/A-bar
+status. The problem was compounded by mounting evidence that specifiers of
+functional categories could be used either as A or A-bar. Even more
+seriously, certain evidence from scrambling languages suggested
+simultaneous A/A-bar properties for scrambled positions ('scrambling
+paradoxes'). To handle such disparities, alternative typologies have been
+proposed (Webelhuth 1988, Chomsky 1989, Deprez 1991, Saito 1992, and
+others) which abandon a strict A/A-bar distinction. This thesis advocates
+that the A/A-bar distinction per se is perfectly adequate, but its current
+implementation requires major modifications.
+
+
+It is argued that all positions within functional categories are
+inherently undetermined w.r.t. their A/A-bar status. Given strict Chain
+Uniformity, a chain-contextual determination of these positions is
+obtained, i.e. their A/A-bar status is subsumed under algorithms of chain
+formation. This eliminates any exponential complexity related to
+increasing the number of functional categories, yet allows the
+cross-linguistic flexibility the A/A-bar distinction previously lacked.
+Operator-variable chains are decomposed in two uniform chains connected
+through Agreement-link formation, a strategy independently required for
+Null Operator Constructions (NOCs) which is here extended to AgrPs. AgrPs
+are thus the crucial interface between A and A-bar chains, and an analysis
+of past-participle agreement in French incorporating the challenging
+properties of 'exceptional' Exceptional Case Marking in French is shown to
+support such a view.
+
+
+Chapter 2 is part of the general theoretical background and proposes a
+review of issues in Bounding theory relevant to Chain formation and the
+A/A-bar distinction.
+
+
+A theory of Weak and Weakest crossover effects which transcends the
+A/A-bar Chain distinction is developed in Chapter 4. It is argued that
+carefully considering a wide array of facts relevant to such conditions
+(which include Lasnik and Stowell's (1991) weakest crossover cases as well
+as Postal's (1993) remarks on the latter), WCO effects cannot result from
+a unique condition but have two distinct sources, one syntactic which
+reduces to a particular implementation of the Bound Anaphora Condition of
+Reinhart (1982, 1992), and one semantic which reduces to a particular
+version of the biuniqueness condition on operator-variable relations.
+Chapter 5 proposes a strict A/A-bar Chain Uniformity approach to
+scrambling paradoxes. It is shown that arguments in favor of ambiguous
+A/A-bar positions, such as the alleged semantically vacuous status of
+scrambling w.r.t. Reconstruction is not a necessary conclusion in light of
+more recent approaches to Wh-movement in Japanese (Watanabe 1991, Aoun and
+Li 1993), and that intricate properties of scrambling are predicted and
+borne out under Chain Uniformity, but remain unexplained under alternative
+typologies.
+
+
+Chapter 6 is devoted to Null Operator Constructions in English, as their
+licensing crucially involves both the notion Chain and the agreement Link
+strategy extended to Operator-variable chains in Chapter 3. Important
+discrepancies w.r.t. various phenomena hold among NOCs and remain
+unexplained under standard assumptions. In line with the groundbreaking
+work of Jones (1991), it is maintained that Tough movement and Purpose
+clauses show properties typical of A-movement (by opposition to A-bar,
+Null Operator movement) and require a different treatment from other NOCs.
+The analysis capitalizes on the Unified Chain definition, developed
+independently in Chapter 3, which encompasses all chain types by
+eliminating Case as a defining property of any chain, thus contra the
+notion CHAIN (Chomsky 1986a). 
+
+
+

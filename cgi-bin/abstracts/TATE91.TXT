@@ -1,0 +1,14 @@
+The Syntax of ‘Subjects’
+
+May 1991
+Koichi Tateishi
+
+Three questions are addressed about the subject in Japanese: (i) What is the subject? (ii) What is the topic in syntax? (iii) Where is the q -marked external argument in syntax?
+
+About (i), I adopt the widely accepted view that the subject is only a relative notion; SPEC. The SPEC is restricted in number in a clause, and so is the subject.
+
+The multiple subject construction is discussed in relation to this, because there appear to be infinitely many subjects in this construction. This casts doubt on the uniform cross-linguistic treatment of the subject and the phrase structure. The existence of this construction, however, does not show that constraints on Japanese phrase structure should be loosened, as recent studies on parametric syntax suggest. It only shows the deep/surface discrepancy on the number of subjects created by movement to the nominative position. At D-structure, the number is severely restricted, and multiple subject sentences show the restriction even on the surface. At D-structure, the structure of Japanese is nothing special, and so is the notion subject.
+
+The topic -wa-phrase in Japanese is discussed next, because the topic and the subject in Japanese overlap with each other in the range of phenomena they cover. Despite its semantic peculiarity, the topic in Japanese is only an ordinary argument. It adds no barrier to syntactic movement, nor does it need a special "topic position" as previous analyses suggest. An analysis of the -wa-phrase as something special in syntax is simply wrong.
+
+Finally, (iii) is addressed, because the external argument is the element regarded as the subject in other languages, unlike ones relevant to (i) and (ii). I will argue for the internal subject hypothesis, but not for the VP-Internal Hypothesis. The VP-constituency tests for Japanese rejected in the past are actually valid and there is a traditional VP as Vmax in Japanese excluding the q -subject. The q -marked subject is in SPEC(AgrP), AgrP being between IP and VP. In a word, there is no special syntax to Japanese ‘subjects’. 

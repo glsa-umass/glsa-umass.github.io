@@ -1,0 +1,37 @@
+Empty Categories and the Acquisition of Wh-movement
+
+September 1993
+
+Ana T. Perez-Leroux, Lic., Universidad Autonoma de Santo Domingo
+
+M.A., University of Massachusetts
+
+Ph.D., University of Massachusetts
+
+Directed by: Professor Francesco D'Introno
+
+ 
+
+This dissertation studies the acquisition of Wh-movement and the
+development of the empty category system in children's grammar. It
+contains empirical studies on issues on the acquisition of Wh-movement in
+English and Spanish. The following topics are the object of investigation:
+long distance movement and the role of barriers, structure of relative
+clauses in child grammar, and the interpretation and production of
+resumptive elements by children.
+Child Grammar is hypothesized to contain a default chain composed of a
+null operator linking a null constant. Null argument and relative clause
+and question formation in early grammars are argued to be derived from
+this default chain. The evidence considered in this dissertation supports
+the view that null constants and not null pronouns are the primitive empty
+category in child grammar. In the initial stage, before clausal nodes are
+projected and subordination is acquired, the chain is derived by short
+movement with adjunction to the maximal projection. Once a full syntactic
+tree develops, the null operator-null constant chain is eventually
+replaced by a set of fully developed A'-dependencies. The acquisition
+process is hypothesized to be dependent on changes of the phrase structure
+representation and the acquisition of syntactic features of the nominal
+system: +/-anaphoric, +/-pronominal and +/-variable.
+
+
+

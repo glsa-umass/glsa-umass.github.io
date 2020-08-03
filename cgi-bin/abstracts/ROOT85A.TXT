@@ -1,0 +1,12 @@
+Association with Focus
+
+Mats Rooth
+
+Suppose John introduced Bill and Tom to Sue and performed no other introductions. Then (i) "John only introduced Bill to SUE" is true, while (ii) "John only introduced BILL to Sue" is false, where capitalization symbolizes a focus marked by a phonetic prominence. Two analyses of this phenomenon of association with focus are considered. The scope theory posits a logical form in which the focused phrase and a lambda abstract with a bound variable in the position of the focused phrases are arguments of "only". According to the domain selection theory I propose, (i) and (ii) have a function-argument structure mirroring the syntax. The translation of "only" has two arguments, the VP translation and the translation of the subject NP; (i) expresses a quantification over properties. Focus contributes to the meaning of (i) by delimiting the domain of quantification to properties of the form ‘introduce Bill to y’, where y is an individual. This yields an assertion: if John has a property of the form ‘introduce Bill to y’, then it is the property ‘introduce Bill to Se’. This is similar in truth conditions to the assertion produced by the scope theory, namely ‘if John introduced Bill to y, then y is Sue’. This idea is executed by including a recursive definition of the sets which will serve as domains of quantification in a Montague grammar.
+
+It is argued that the domain selection theory is superior in several ways. In particular, no bound variable in the position of the focused phrase is postulated; the relation between "only" (or "eve") and a focused phrase violates structural conditions on bound variables. Chomsky’s crossover argument for assigning scope to focused phrases is answered. 
+
+he proposal is extended to cases where "only" and "even" modify NP and various other categories by means of a crosscategorial semantics analogous to the crosscategorial semantics for conjunction proposed by Gazdar and others.
+
+Other constructions discussed are association of focus with adverbs of quantification (MARY always takes John to the movies, Mary always takes JOHN to the movies), clefts (it is JOHN’s father who came, it is John’s FATHER who came), and conditionals.
+

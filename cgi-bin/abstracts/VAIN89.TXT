@@ -1,0 +1,23 @@
+Deriving Syntactic Representations in Finnish
+
+September 1989
+
+Anne Marjatta Vainikka, B.A., University of Washington
+
+M.A., University of Washington
+
+Ph.D., University of Massachusetts
+
+Directed by: Professor F. Roger Higgins
+
+ 
+
+A comprehensive, coordinated analysis of Finnish syntax is attempted in this dissertation. The following areas receive special attention: word order, grammatical case marking, null subjects, binding, and non-finite constructions. The basic framework used is the Government-Binding Theory, but a number of revisions are introduced in order to account for the Finnish data.
+
+The theory of levels of representation is enriched by allowing for postcyclic operations in syntax. A theory of structural default case is developed which includes a level of postcyclic genitive percolation. The current theory of movement is modified so as to allow for a postcyclic movement operation (following WH-movement and Topicalization); this modification also involves revising Trace Theory. 
+
+It is argued that Finnish has fixed syntactic positions which need to be licensed at specific points during the derivation. This requirement has the effect of producing instances of obligatory movement in order to fill a syntactic position, giving rise to word order variation. A strong form of the notion of Structure Preservation is supported by the data. 
+
+The theory of default case that is developed in this dissertation provides a way of studying the interaction between morphological case assignment, subcategorization, syntactic positions, and movement. Developing this theory involves reducing the theory of Abstract Case into aspects of the other components of the grammar. 
+
+

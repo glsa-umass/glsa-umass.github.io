@@ -1,0 +1,34 @@
+NELS 11 1981 (Cornell 1980) [NELS11]
+
+(eds.) V.A. Burke & J. Pustejovsky
+
+E. Bach Discontinuous Constituents in Generalized Categorial Grammars
+J. M. Bing The Given/New Distinction and The Unmarked Stress Pattern
+H. Borer On Extraction from Clitic Doubled Constructions
+W. D. Davies Possessor Ascension in Chocktaw
+S. De Mey The Dependent Plural and the Analysis of Tense
+S. Franks Deep and Surface Case
+N. Hasegawa On the Passive as a Lexical Process
+P. Hirschbuhler & M. Rivero A Unified Analysis of Matching and Non-
+Matching Free Relatives in Catalan
+L.R. Horn Exhaustiveness and the Semantics of Clefts
+N. Hyams The Choice of Auxiliary and Agreement in Italian
+J.T. Jensen X' Morphology
+D.R. Ladd English Compound Stress
+S.G. Lapointe The Representation of Inflectional Morphology Within the Lexicon
+B. Lust, L. Solan, S. Flynn, C. Cross & E. Schuetz A Comparison of Null
+and Pronominal Anaphora in First Language Acquisition
+P. Muysken The Theory of Morphological Control
+D. Odden Assigned Rule Features in Shona
+Y. Otsu Opacity Condition and Syntactic Development in Children
+M. Phinney The Acquisition of Embedded Sentences and the NIC
+G. Rappaport Bound and Free Reference in Russian Infinitival Clauses
+E.J. Reuland On Extraposition of Complement Clauses
+A.M. Rivas On the Interaction of Rules During Word Formation: Two Stage Rules
+K. Safir & D. Pesetsky Inflection, Inversion and Subject Clitics
+T. Stowell Complementizers and the Empty Category Principle
+S.U. Stucky Free Word Order Languages, Free Constituent Order Languages, and the Gray Area In Between
+K.T. Taraldsen Case-Conflict in Norwegian Topicalization
+H. van Riemsdijk On 'Adjacency' in Phonology and Syntax
+E. Wehrli On Thematic Roles and Exceptional Case Marking
+K. Zagona A Right Branching Verbal Complex for Romance

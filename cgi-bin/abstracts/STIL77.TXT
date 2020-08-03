@@ -1,0 +1,20 @@
+Remarks on Core Grammar
+
+August 1977
+
+Justine T. Stillings, 
+B.A., Wayne State University
+Ph.D., University of Massachusetts
+Directed by: S. Jay Keyser
+
+This dissertation is an exploration of a variety of topics related to a form of tranformational syntax called core grammar. In Chapter I an attempt is made to provide a readable and clear description of core grammar as a whole and the way its rules interact to generate grammatical sentences. In Chapter II attention is focused on one of the major constraints of core grammar, the Specified Subject Condition. Chapter III illustrates the way core grammar might be used as a research methodology for the solution of new syntactic problems. Chapter IV is a detailed investigation of the interrelationship between core grammar's Propositional Island Condition and the semantic notion of propositions.
+
+It is argued in Chapter II that there are many "specified subject" phenomena in English, but that the Specified Subject Condition is formulated in such a way that only a fraction of the data can be accounted for. A revision of the SSC is proposed which generalizes the rule to many more cases than it previously handled. The implications of this revision for rule ordering and rule typology in core grammar are then explored. It is proposed that Wh-movement be ordered before Wh-deletion, that Question Formation be represented as an unbounded rule, and that Infinitival Relatives derive from an NP - PP - S structure rather than the conventional relative clause structure heretofore assumed for them.
+
+In Chapter III, using core grammar as an analytical research tool, it is argued that Quantifier Movement is actually an interpretive rule rather than a movement rule. Attention is then focused on a topic in historical language change, the development of the English infinitival sentence, and it is illustrated that core grammar can serve to clarify the problem of whether language change is first introduced by means of lexical subcategorization rules, or by means of special purpose "exception-handling" syntactic rules and filters. The former approach is argued to be more explanatory of the historical facts.
+
+Chapter IV discusses core grammar chiefly from a semantic rather than a syntactic point of view. It is argued that the name "Propositional Island Condition" is incorrect, because the rule at issue does not apply to propositions. It is then illustrated that there is, however, a different semantic constraint which governs Wh-movement, and which is termed the Semantic Island Condition (SIC). The SIC states that nothing can be extracted from a clause whose truth value (true or false) has been presupposed by the matrix sentence in which the clause is embedded. The interaction between the Tensed-S Condition and the SIC is then investigated in a number of languages other than English, and it is argued that the Tensed-S Condition is language-specific, but that the SIC may well be a linguistic universal.
+
+Throughout the dissertation it is argued that it is as important for a syntactic theory to be internally consistent as for it to account for linguistic data. A distinction is made between intertheoretical criticism, intratheoretical criticism, and empirical criticism of a syntactic theory. 
+
+
