@@ -1,0 +1,26 @@
+DISSERTATION CODE (e.g. BECK, etc.)
+Date
+Title
+Author
+Number of Volumes
+Available/OOP/Forthcoming
+CD_Price 	[If Price=0 then there is no CD]
+Book_Price	[If Price=0 then there is no Book]
+Shipping_Number (i.e. counts as 1 or 2?)
+Special Notes (e.g.Defective Binding)
+Fields		{Phonology, Phonetics, Morphology, Syntax, Semantics, Lg Acq, All}
+Keywords
+
+[Contents-where's the file?:NO! This should derive from the UMOP number+date]
+
+
+EXAMPLE
+
+24%1999%Papers from the 25th Reunion%de Lacy, Paul&Nowak, Anita%1%A%12%20%1%Defective Binding%All%Haplology
+
+And the contents file is UMOP1999.TXT
+
+
+
+CODE % DATE % TITLE % AUTHOR(&AUTHOR2..) % VOLUMES % STATUS(A,O,N,F,S) % CD-cost % Bk-Cost % [Counts as x vols for shipping] % Fields % Keywords
+
