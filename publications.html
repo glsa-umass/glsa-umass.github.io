@@ -41,15 +41,13 @@ function winopen(url,stuff,morestuff) {
 						<!-- InstanceBeginEditable name="menu" -->
   
       					<!-- This is the menu table: fixed layout -->   		   
-      					<table width="700" height="25" style="table-layout: fixed" border="0" cellpadding="0" cellspacing="1">
+      					<table width="700" height="25" border="0" cellpadding="0" cellspacing="1" style="table-layout: fixed">
               				<tr>
-                				<td width="90" align="center" class="menu"><a href="index.html" target="_self" class="menu">Home</a></td>
-                				<td width="110" align="center" class="selected">Publications</td>
-                				<td width="90" align="center" class="menu"><a href="ordering.html" target="_self" class="menu">Ordering</a></td>
-                				<td width="110" align="center" class="menu"><a href="authors.html" target="_self" class="menu">For Authors</a></td>
-                				<td width="90" align="center" class="menu"><a href="about.html" target="_self" class="menu">About</a></td>
-                				<td width="70" align="center" class="menu">&nbsp;</td>
-                				<td width="132" align="center" class="menu"><a href="cgi-bin/cart2.cgi" target="cart" class="menu" onClick="winopen('','cart','width=640,height=500,scrollbars=1,resizable=1');">Shopping Cart</a></td>
+                				<td width="140" align="center" class="menu"><a href="index.html" target="_self" class="menu">Home</a></td>
+                				<td width="140" align="center" class="selected">Publications</td>
+                				<td width="140" align="center" class="menu"><a href="ordering.html" target="_self" class="menu">Ordering</a></td>
+                				<td width="140" align="center" class="menu"><a href="authors.html" target="_self" class="menu">For Authors</a></td>
+                				<td width="140" align="center" class="menu"><a href="about.html" target="_self" class="menu">About</a></td>
               				</tr>
             			</table>
 		  		  <!-- InstanceEndEditable -->				  </td>
@@ -60,111 +58,394 @@ function winopen(url,stuff,morestuff) {
 						<table width="700" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF" style="table-layout: fixed">
                         	<tr>
                             	<td width="690">
-                              		<table width="690" height="20" border="0" cellpadding="0" cellstyle="table-layout: fixed"spacing="0" >
+                              		<table width="690" height="20" border="0" cellpadding="0" style="table-layout: auto" >
                                 		<tr>
                                   			<td width="690" height="20" bgcolor="#C9CCED">
-												<div align="center">Publications</div>
-											</td>
+										<div align="center">Publications</div>
+									</td>
                                 		</tr>
+							</table>
+							<table width="690" height="20" border="0" cellpadding="0" style="table-layout: auto" >
+								<tr>
+									<td width="140" align="center"><a href="#diss">Dissertations</a></td>
+									<td width="140" align="center"><a href="#nels">NELS</a></td>
+									<td width="140" align="center"><a href="#sula">SULA</a></td>
+									<td width="140" align="center"><a href="#umop">UMOP</a></td>
+									<td width="140" align="center"><a href="#other">Other</a></td>
+								</tr>
                               		</table>
                               		<br>
-                              		<table width="640" height="200" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: fixed">
-                                		<tr>
-                                  			<td width="110" height="20">
-												[<a href="cgi-bin/list.cgi?ALL%BEGIN%5%N" target="_self">All</a>]
-											</td>
-                                  			<td width="507" height="20">All available publications</td>
-                                		</tr>
-                                		<tr>
-                                  			<td width="110" height="20">
-												[<a href="cgi-bin/list.cgi?ALL%BEGIN%5%F" target="_self">New</a>]
-											</td>
-                                  			<td width="507" height="20">New and forthcoming publications</td>
-                                		</tr>
-                                		<tr>
-                                  			<td width="110" height="20">
-												[<a href="cgi-bin/list.cgi?DISS%BEGIN%5%N">Dissertations</a>]
-											</td>
-                                  			<td width="507" height="20">Dissertations currently in print</td>
-                                		</tr>
-                                		<tr>
-                                  			<td width="110" height="20">
-												[<a href="cgi-bin/list.cgi?UMOP%BEGIN%5%N">UMOP</a>]
-											</td>
-                                  			<td width="507" height="20">University of Massachusetts Occasional Papers in linguistics</td>
-                                		</tr>
-                                		<tr>
-                                  			<td width="110" height="20">
-												[<a href="cgi-bin/list.cgi?NELS%BEGIN%5%N">NELS</a>]
-											</td>
-                                  			<td width="507" height="20">NELS conference proceedings</td>
-                                		</tr>
-                                		<tr>
-                                  			<td width="110" height="20">
-												[<a href="cgi-bin/list.cgi?SULA%BEGIN%5%N">SULA</a>]
-											</td>
-                                  			<td width="507" height="20">SULA conference proceedings</td>
-                                		</tr>
-                                		<tr>
-                                  			<td width="110" height="20">
-												[<a href="cgi-bin/list.cgi?OTHER%BEGIN%5%N">Other</a>]
-											</td>
-                                  			<td width="507" height="20">Special publications (e.g. John McCarthy's <em>Introduction to Optimality Theory</em> CD-ROM)</td>
-                                		</tr>
-                                		<tr>
-                                  			<td width="110" height="20">
-												[<a href="cgi-bin/list.cgi?ALL%BEGIN%5%S">Specials</a>]
-											</td>
-                                  			<td width="507" height="20">Items at special prices</td>
-                                		</tr>
-                                		<tr>
-                                  			<td width="110" height="20">
-												[<a href="cgi-bin/list.cgi?ALL%BEGIN%5%O">Out of Print</a>]
-											</td>
-                                  			<td width="507" height="20">Out of print publications</td>
-                                		</tr>
-                                		<tr>
-                                  			<td width="110" height="20">&nbsp;</td>
-                                  			<td width="507" height="20">&nbsp;</td>
-                                		</tr>
-                                		<tr>
-                                  			<td width="110" height="20">
-												<a href="search.html">Search</a>
-											</td>
-                                  			<td width="507" height="20">Search for specific publications</td>
-                                		</tr>
-                           		 	</table>
-                              		<br>
-                              		<table width="690" height="20" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed">
+                              		<table width="690" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: fixed">
                                 		<tr bgcolor="#E6FFE6">
-                                  			<td width="690" height="20" align="center" bgcolor="#C9DBED">
-												<div align="center">Navigation</div>
-											</td>
+                                  			<td align="center" bgcolor="#C9DBED">
+										<div align="center" id="diss">Dissertations</div>
+									</td>
                                 		</tr>
-									</table>
-                                    <ul>
-                                        <li>To see the publications list for a section, click on the relevant link to your left or above</li>
-                                        <li>To <strong>navigate </strong>through the items, use the Previous and Next buttons at the bottom of each page</li>
-                                        <li>To see the <strong>abstract</strong> for an item, click on its title</li>
-                                        <li>To <strong>order </strong>an item, click on the 'Add Book' button</li>
-                                        <li>To see your <strong>shopping cart </strong>at any time, click on 'See Cart' to your left</li>
-                                    </ul>
-                              		<br>
-                              		<br>
-                              		<table width="690" height="20" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed">
-                                		<tr>
-                                 			 <td width="690" height="20" bgcolor="#C9DBED">
-											 	<div align="center">
-													For information on available formats, please see the 
-													<a href="ordering.html" target="_self">How to Order</a> page.
-												</div>
-											</td>
+							</table>
+							<table width="690" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: auto">
+								<tr>
+									<td width="125">Luis Alonso-Ovalle</td>
+									<td>2010</td>
+									<td>Disjunction in Alternative Semantics</td>
+									<td><a href="https://www.amazon.com/Disjunction-Alternative-Semantics-Luis-Alonso-Ovalle/dp/1450558615" target="_blank">Click here to order from Amazon (List Price $16.99)</a></td>
+								</tr>
+								<tr>
+									<td>Ana Arregui</td>
+									<td>2004</td>
+									<td>On the Accessibility of Possible Worlds: The Role of Tense and Aspect</td>
+									<td><a href="http://www.amazon.com/gp/product/1419620878/sr=1-1/qid=1156378544/ref=sr_1_1/002-8196601-8902419?ie=UTF8&s=books" target="_blank">Click here to order from Amazon (List Price $15.99)</a></td>
+								</tr>
+								<tr>
+									<td>Kathryn Flack</td>
+									<td>2007</td>
+									<td>The Sources of Phonological Markedness</td>
+									<td><a href="http://glsa.hypermart.net/cgi-bin/abstract.cgi?FLAC07" target="_blank">Click here to order from Amazon (List Price $16.99)</a></td>
+								</tr>
+								<tr>
+									<td>Ben Gelbart</td>
+									<td>2005</td>
+									<td>Perceptions of Foreignness</td>
+									<td><a href="http://www.amazon.com/Perception-Foreignness-Ben-Gelbart/dp/1419629972/sr=8-1/qid=1162914668/ref=sr_1_1/102-5842490-8357753?ie=UTF8&s=books" target="_blank">Click here to order from Amazon (List Price $16.99)</a></td>
+								</tr>
+								<tr>
+									<td>Eva Juarros-Daussa</td>
+									<td>2011</td>
+									<td>Argument Structure and the Lexicon/Syntax Interface</td>
+									<td><a href="https://www.amazon.com/Argument-Structure-Lexicon-Syntax-Interface/dp/1460916131" target="_blank">Click here to order from Amazon (List Price $16.99)</a></td>
+								</tr>
+								<tr>
+									<td>Min-Joo Kim</td>
+									<td>2004</td>
+									<td>Event-Structure and the Internally-Headed Relative Clause Construction in Korean and Japanese</td>
+									<td><a href="http://www.amazon.com/gp/product/1419610457/sr=1-1/qid=1156378584/ref=sr_1_1/002-8196601-8902419?ie=UTF8&s=books" target="_blank">Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td>Florian Schwarz</td>
+									<td>2009</td>
+									<td>Two Types of Definites in Natural Language</td>
+									<td><a href="https://www.amazon.com/Two-Types-Definites-Natural-Language/dp/1449571514" target="_blank">Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td>Mariko Sugahara</td>
+									<td>2003</td>
+									<td>Downtrends and Post-FOCUS Intonation in Tokyo Japanese</td>
+									<td><a href="http://www.amazon.com/gp/product/1419610449/sr=1-1/qid=1156378615/ref=sr_1_1/002-8196601-8902419?ie=UTF8&s=books" target="_blank">Click here to order from Amazon (List Price $20.99)</a></td>
+								</tr>
+								<tr>
+									<td>Adam Werle</td>
+									<td>2008</td>
+									<td>Word, Phrase, and Clitic Prosody in Bosnian, Serbian, and Croatian</td>
+									<td><a href="https://www.amazon.com/Phrase-Prosody-Bosnian-Serbian-Croatian/dp/1448600421" target="_blank">Click here to order from Amazon (List Price $16.99)</a></td>
+								</tr>                           	                        
+								<tr>
+									<td></td>
+									<td></td>
+									<td align=center><a href="">Back to top</a></td>
+									<td></td>
+								</tr>
+                        	</table>
+					<table width="690" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: fixed">
+                                		<tr bgcolor="#E6FFE6">
+                                  			<td align="center" bgcolor="#C9DBED">
+										<div align="center" id="nels">NELS</div>
+									</td>
                                 		</tr>
-                              		</table>
-                              		<p>&nbsp;</p>
-								</td>
-                          	</tr>
+							</table>
+							<table width="690" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: auto">
+								<tr>
+									<td width="125">Makoto Kadowaki, Shigeto Kawahara</td>
+									<td>2003</td>
+									<td>
+NELS 33: Proceedings of the Thirty-Third Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-33-Proceedings-Thirty-Third-Lingusitic/dp/1419622013" target="_blank">Click here to order from Amazon (List Price $23.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Keir Moulton, Matthew Wolf</td>
+									<td>2004</td>
+									<td>NELS 34: Proceedings of the Thirty-Fourth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-Keir-Moulton-Matthew-Wolf/dp/1419652400/sr=1-2/qid=1164642728?ie=UTF8" target="_blank">Volume 1: Click here to order from Amazon (List Price $17.99)</a><br><a href="https://www.amazon.com/NELS-Keir-Moulton-Matthew-Wolf/dp/1594575711/sr=1-1/qid=1164642728?ie=UTF8" target="_blank">Volume 2: Click here to order from Amazon (List Price $17.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Leah Bateman, Cherlon Ussery</td>
+									<td>2005</td>
+									<td>NELS 35: Proceedings of the Thirty-Fifth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/Proceedings-Thirty-Fifth-Meeting-Linguistic-Society/dp/1419622102/sr=1-1/qid=1164642631?ie=UTF8" target="_blank">Volume 1: Click here to order from Amazon (List Price $18.99)</a><br><a href="https://www.amazon.com/Proceedings-Thirty-Fifth-Meeting-Linguistic-Society/dp/1419649914/sr=8-4/qid=1163437362?ie=UTF8" target="_blank">Volume 2: Click here to order from Amazon (List Price $20.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Christopher Davis, Amy Rose Deal, Youri Zabbal</td>
+									<td>2006</td>
+									<td>NELS 36: Proceedings of the Thirty-Sixth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-36-Proceedings-Meeting-Linguistic/dp/1419652524" target="_blank">Volume 1: Click here to order from Amazon (List Price $20.99)</a><br><a href="https://www.amazon.com/NELS-36-Proceedings-Meeting-Linguistic/dp/1419653628/sr=1-2/qid=1166141721?ie=UTF8" target="_blank">Volume 2: Click here to order from Amazon (List Price $20.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Emily Elfner, Martin Walkow</td>
+									<td>2007</td>
+									<td>NELS 37: Proceedings of the Thirty-Seventh Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-37-Proceedings-Meeting-Linguistic/dp/1419679929/" target="_blank">Volume 1: Click here to order from Amazon (List Price $18.99)</a><br><a href="https://www.amazon.com/NELS-37-Proceedings-Meeting-Linguistic/dp/1419679929/" target="_blank">Volume 2: Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Anisa Schardl, Martin Walkow, Muhammad Abdurrahman</td>
+									<td>2009</td>
+									<td>NELS 38: Proceedings of the Thirty-Eighth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-38-Proceedings-Meeting-Linguistic/dp/1448636965" target="_blank">Volume 1: Click here to order from Amazon (List Price $22.99)</a><br><a href="https://www.amazon.com/NELS-38-Proceedings-Meeting-Linguistic/dp/1448636973" target="_blank">Volume 2: Click here to order from Amazon (List Price $22.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Suzi Lima, Kevin Mullin, Brian W. Smith</td>
+									<td>2011</td>
+									<td>NELS 39: Proceedings of the Thirty-Ninth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-39-Proceedings-Meeting-Linguistic/dp/1468132873" target="_blank">Volume 1: Click here to order from Amazon (List Price $22.99)</a><br><a href="https://www.amazon.com/NELS-39-Proceedings-Meeting-Linguistic/dp/1468132938" target="_blank">Volume 2: Click here to order from Amazon (List Price $22.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Seda Kan, Claire Moore-Cantwell, Robert Staubs</td>
+									<td>2013</td>
+									<td>NELS 40: Proceedings of the Fortieth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-40-Proceedings-Meeting-Linguistic/dp/1492268747" target="_blank">Volume 1: Click here to order from Amazon (List Price $18.99)</a><br><a href="https://www.amazon.com/Proceedings-Annual-Meeting-Linguistic-Society/dp/1492268801" target="_blank">Volume 2: Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Patrick Gorsz, Patty Patel-Grosz, Igor Yanovich</td>
+									<td>2015</td>
+									<td>NELS 40: Proceedings of the Semantics Workshop on Pronouns</td>
+									<td><a href="https://www.amazon.com/NELS-40-Proceedings-Semantics-Workshop/dp/1500572306" target="_blank">Click here to order from Amazon (List Price $27.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Yelena Fainleib, Nicholas LaCara, Yangsook Park</td>
+									<td>2013</td>
+									<td>NELS 41: Proceedings of the Forty-First Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-41-Proceedings-Meeting-Linguistic/dp/1492842249" target="_blank">Volume 1: Click here to order from Amazon (List Price $18.99)</a><br><a href="https://www.amazon.com/NELS-41-Proceedings-Meeting-Linguistic/dp/1492842281" target="_blank">Volume 2: Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Stefan Keine, Shayne Sloggett</td>
+									<td>2013</td>
+									<td>NELS 42: Proceedings of the Forty-Second Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-42-Proceedings-Meeting-Linguistic/dp/1484948688" target="_blank">Volume 1: Click here to order from Amazon (List Price $18.99)</a><br><a href="https://www.amazon.com/NELS-42-Proceedings-Meeting-Linguistic/dp/1484948734" target="_blank">Volume 2: Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Hsin-Lun Huang, Ethan Poole, Amanda Rysling</td>
+									<td>2013</td>
+									<td>NELS 43: Proceedings of the Forty-Third Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-43-Proceedings-Meeting-Linguistic/dp/149751066X" target="_blank">Volume 1: Click here to order from Amazon (List Price $24.99)</a><br><a href="https://www.amazon.com/NELS-43-Proceedings-Meeting-Linguistic/dp/1499242077" target="_blank">Volume 2: Click here to order from Amazon (List Price $24.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Jyoti Iyer, Leland Kusmer</td>
+									<td>2014</td>
+									<td>NELS 44: Proceedings of the Forty-Fourth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-44-Proceedings-Meeting-Linguistic/dp/1501048465" target="_blank">Volume 1: Click here to order from Amazon (List Price $27.99)</a><br><a href="https://www.amazon.com/NELS-44-Proceedings-Meeting-Linguistic/dp/1501048317" target="_blank">Volume 2: Click here to order from Amazon (List Price $27.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Thuy Bui, Deniz &Ouml;zy&#305;ld&#305;z</td>
+									<td>2015</td>
+									<td>NELS 45: Proceedings of the Forty-Fifth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-45-Proceedings-Forty-Fifth-Linguistic/dp/1517317673" target="_blank">Volume 1: Click here to order from Amazon (List Price $27.99)</a><br><a href="https://www.amazon.com/NELS-45-Proceedings-Meeting-Linguistic/dp/1517317738" target="_blank">Volume 2: Click here to order from Amazon (List Price $27.99)</a><br><a href="https://www.amazon.com/NELS-45-Proceedings-Meeting-Linguistic/dp/1517370906" target="_blank">Volume 3: Click here to order from Amazon (List Price $27.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Christopher Hammerly, Brandon Prickett</td>
+									<td>2016</td>
+									<td>NELS 46: Proceedings of the Forty-Sixth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-46-Proceedings-Forty-Sixth-Linguistic/dp/1537513400" target="_blank">Volume 1: Click here to order from Amazon (List Price $29.99)</a><br><a href="https://www.amazon.com/NELS-46-Proceedings-Forty-Sixth-Linguistic/dp/1539105202/" target="_blank">Volume 2: Click here to order from Amazon (List Price $29.99)</a><br><a href="https://www.amazon.com/NELS-46-Proceedings-Forty-Sixth-Linguistic/dp/1539105237" target="_blank">Volume 3: Click here to order from Amazon (List Price $29.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Andrew Lamont, Katerina Tetzloff</td>
+									<td>2017</td>
+									<td>NELS 47: Proceedings of the Forty-Seventh Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-47-Proceedings-Forty-Seventh-Linguistic/dp/1976149398" target="_blank">Volume 1: Click here to order from Amazon (List Price $29.99)</a><br><a href="https://www.amazon.com/NELS-47-Proceedings-Forty-Seventh-Linguistic/dp/1976344565" target="_blank">Volume 2: Click here to order from Amazon (List Price $29.99)</a><br><a href="https://www.amazon.com/NELS-47-Proceedings-Forty-Seventh-Linguistic/dp/1976344603" target="_blank">Volume 3: Click here to order from Amazon (List Price $29.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Sherry Hucklebridge, Max Nelson</td>
+									<td>2018</td>
+									<td>NELS 48: Proceedings of the Forty-Eighth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-48-Proceedings-Forty-Eighth-Linguistic/dp/1727605799" target="_blank">Volume 1: Click here to order from Amazon (List Price $29.99)</a><br><a href="https://www.amazon.com/NELS-48-Proceedings-Forty-Eighth-Linguistic/dp/1727605810/" target="_blank">Volume 2: Click here to order from Amazon (List Price $29.99)</a><br><a href="https://www.amazon.com/NELS-48-Proceedings-Forty-Eighth-Linguistic/dp/1727605829/" target="_blank">Volume 3: Click here to order from Amazon (List Price $29.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Maggie Baird, Jonathan Pesetsky</td>
+									<td>2019</td>
+									<td>NELS 49: Proceedings of the Forty-Ninth Annual Meeting of the North East Lingusitic Society</td>
+									<td><a href="https://www.amazon.com/NELS-49-Proceedings-Forty-Ninth-Linguistic/dp/1698805934" target="_blank">Volume 1: Click here to order from Amazon (List Price $45.00)</a><br><a href="https://www.amazon.com/NELS-49-Proceedings-Forty-Ninth-Linguistic/dp/1698806000" target="_blank">Volume 2: Click here to order from Amazon (List Price $45.00)</a><br><a href="https://www.amazon.com/NELS-49-Proceedings-Forty-Ninth-Linguistic/dp/1698806124" target="_blank">Volume 3: Click here to order from Amazon (List Price $45.00)</a></td>
+								</tr>
+								<tr>
+									<td></td>
+									<td></td>
+									<td align=center><a href="">Back to top</a></td>
+									<td></td>
+								</tr>
+							</table>
+                     			<table width="690" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: fixed">
+                                		<tr bgcolor="#E6FFE6">
+                                  			<td align="center" bgcolor="#C9DBED">
+										<div align="center" id="sula">SULA</div>
+									</td>
+                                		</tr>
+							</table>
+							<table width="690" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: auto">
+								<tr>
+									<td width="125">Michael Becker, Andrew McKenzie</td>
+									<td>2005</td>
+									<td>SULA 3 Proceedings of the 3rd Conference on the Semantics of Underrepresented Languages in the Americas</td>
+									<td><a href="http://www.amazon.com/Proceedings-Conference-Semantics-Underrepresented-Languages/dp/1419662007/ref=pd_rhf_dp_p_tnr_2" target="_blank">Click here to order from Amazon (List Price $15.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Amy Rose Deal</td>
+									<td>2007</td>
+									<td>SULA 4 Proceedings of the 4th Conference on the Semantics of Underrepresented Languages in the Americas</td>
+									<td><a href="http://www.amazon.com/Proceedings-Conference-Semantics-Underrepresented-Languages/dp/1419679953/ref=pd_rhf_dp_p_tnr_3" target="_blank">Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Suzi Lima</td>
+									<td>2009</td>
+									<td>SULA 5 Proceedings of the 5th Conference on the Semantics of Underrepresented Languages in the Americas</td>
+									<td><a href="http://www.amazon.com/Proceedings-SULA-Semantics-Under-Represented-Languages/dp/1456347772/ref=pd_sim_sbs_b_1?ie=UTF8&refRID=0358MPJ6BZTBNXJMEFFH" target="_blank">Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Elizabeth Bogal-Allbritten</td>
+									<td>2011</td>
+									<td>SULA 6 Proceedings of the 6th Conference on the Semantics of Underrepresented Languages in the Americas</td>
+									<td><a href="http://www.amazon.com/Sula-Proceedings-Conference-Semantics-Under-represented/dp/1475221193/ref=pd_sim_sbs_b_1?ie=UTF8&refRID=1XKQXJ9N3YXET1YRXHJJ" target="_blank">Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Hannah Greene</td>
+									<td>2012</td>
+									<td>SULA 7 Proceedings of the 7th Conference on the Semantics of Underrepresented Languages in the Americas</td>
+									<td><a href="https://www.amazon.com/Proceedings-Conference-Semantics-Under-Represented-Languages/dp/1497510635" target="_blank">Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Jeremy Pasquereau</td>
+									<td>2014</td>
+									<td>SULA 8 Proceedings of the 8th Conference on the Semantics of Underrepresented Languages in the Americas</td>
+									<td><a href="https://www.amazon.com/SULA-Proceedings-Semantics-Under-Represented-Languages/dp/1508664056" target="_blank">Click here to order from Amazon (List Price $27.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Thuy Bui, Rudmila-Rodica Ivan</td>
+									<td>2016</td>
+									<td>SULA 9 Proceedings of the 9th Conference on the Semantics of Underrepresented Languages in the Americas</td>
+									<td><a href="https://www.amazon.com/SULA-Proceedings-Conference-Semantics-Under-Represented/dp/1540398536" target="_blank">Click here to order from Amazon (List Price $24.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Kimberly Johnson, Alexander G&ouml;bel</td>
+									<td>2018</td>
+									<td>SULA 10 Proceedings of the 10th Conference on the Semantics of Underrepresented Languages in the Americas</td>
+									<td><a href="https://www.amazon.com/dp/1727702247" target="_blank">Click here to order from Amazon (List Price $24.99)</a></td>
+								</tr>
+		 					<tr>
+									<td></td>
+									<td></td>
+									<td align=center><a href="">Back to top</a></td>
+									<td></td>
+								</tr>
+						</table>
+
+                     				<table width="690" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: fixed">
+                                		<tr bgcolor="#E6FFE6">
+                                  			<td align="center" bgcolor="#C9DBED">
+										<div align="center" id="umop">UMOP</div>
+									</td>
+                                		</tr>
+							</table>
+							<table width="690" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: auto">
+								<tr>
+									<td width="125">Ji-Yung Kim, Barbara H. Partee, Yury A. Lander</td>
+									<td>2005</td>
+									<td>UMOP 29: Possessives and Beyond: Semantics and Syntax</td>
+									<td><a href="https://www.amazon.com/Possessives-Beyond-University-Massachusetts-Linguistics/dp/1419601997" target="_blank">Click here to order from Amazon (List Price $13.59)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Shigeto Kawahara</td>
+									<td>2005</td>
+									<td>UMOP 30: Papers on Prosody</td>
+									<td><a href="https://www.amazon.com/University-Massachusetts-Occasional-Papers-Linguistics/dp/1419606808" target="_blank">Click here to order from Amazon (List Price $17.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Kathryn Flack, Shigeto Kawahara</td>
+									<td>2005</td>
+									<td>UMOP 31: Papers in Experimental Phonetics and Phonology</td>
+									<td><a href="https://www.amazon.com/University-Massachusetts-Occasional-Papers-Linguistics/dp/1419606816" target="_blank">Click here to order from Amazon (List Price $15.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Leah Bateman, Michael O'Keefe, Ehren Reilly, Adam Werle</td>
+									<td>2007</td>
+									<td>UMOP 32: Papers in Optimality Theory III</td>
+									<td><a href="https://www.amazon.com/Papers-Optimality-Theory-III-Massachusetts/dp/1419658646" target="_blank">Click here to order from Amazon (List Price $20.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Michael Becker, Andrew McKenzie</td>
+									<td>2007</td>
+									<td>UMOP 33: Proceedings of the 3rd Conference on the Semantics of Under-Represented Languages in the Americas</td>
+									<td><a href="https://www.amazon.com/Proceedings-Conference-Semantics-Underrepresented-Languages/dp/1419662007" target="_blank">Click here to order from Amazon (List Price $15.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Tanja Heizmann</td>
+									<td>2005</td>
+									<td>UMOP 34: Current Issues in First Language Acquisition</td>
+									<td><a href="https://www.amazon.com/Current-Issues-First-Language-Acquisition/dp/1419650769" target="_blank">Click here to order from Amazon (List Price $16.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Amy Rose Deal</td>
+									<td>2007</td>
+									<td>UMOP 35: Proceedings of the 4th Conference on the Semantics of Under-Represented Languages in the Americas</td>
+									<td><a href="https://www.amazon.com/Proceedings-Conference-Semantics-Underrepresented-Languages/dp/1419679953" target="_blank">Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Michael Becker</td>
+									<td>2007</td>
+									<td>UMOP 36: Papers in Theoretical and Computational Phonology</td>
+									<td><a href="https://www.amazon.com/University-Massachusetts-Occasional-Papers-Linguistics/dp/1419678884" target="_blank">Click here to order from Amazon (List Price $15.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Jesse Harris, Meg Grant</td>
+									<td>2011</td>
+									<td>UMOP 38: Processing Linguistic Structure</td>
+									<td><a href="https://www.amazon.com/UMOP-38-Processing-Linguistic-Structure/dp/1466369078" target="_blank">Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">M. Biezma, J. Harris</td>
+									<td>2009</td>
+									<td>UMOP 39: Papers in Pragmatics</td>
+									<td><a href="https://www.amazon.com/UMOP-39-Pragmatics-Maria-Biezma/dp/1449919502" target="_blank">Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Rodica Ivan</td>
+									<td>2018</td>
+									<td>UMOP 40: The Leader of the Pack: A Festschrift in Honor of Peggy Speas</td>
+									<td><a href="https://www.amazon.com/dp/1729697488" target="_blank">Click here to order from Amazon (List Price $24.99)</a></td>
+								</tr>
+								<tr>
+									<td width="125">Bart Hollebrandse, Jaieun Kim, Ana T. Perez-Leroux, Petra Schulz</td>
+									<td>2018</td>
+									<td>UMOP 41: T.O.M and Grammar: Thoughts on Mind and Grammar: A Festschrift in Honor of Tom Roeper</td>
+									<td><a href="https://www.amazon.com/dp/1729520650" target="_blank">Click here to order from Amazon (List Price $18.99)</a></td>
+								</tr>
+								<tr>
+									<td></td>
+									<td></td>
+									<td align=center><a href="">Back to top</a></td>
+									<td></td>
+								</tr>
+	 						</table>
+							<br>
+                     				<table width="690" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: fixed">
+                                		<tr bgcolor="#E6FFE6">
+                                  			<td align="center" bgcolor="#C9DBED">
+										<div align="center" id="other">Other</div>
+									</td>
+                                		</tr>
+							</table>
+							<table width="690" border="0" align="center" cellpadding="5" cellspacing="1" style="table-layout: auto">
+								<tr>
+									<td width="125">Faruk Akku&#351;, &#304;sa Kerem Bay&#305;rl&#305;, Deniz &Ouml;zy&#305;ld&#305;z</td>
+									<td>2018</td>
+									<td>
+TU+ 1 Proceedings of the first workshop on Turkish, Turkic and the languages of Turkey</td>
+									<td><a href="http://a.co/d/3RoM54c" target="_blank">Click here to order from Amazon (List Price $17.99)</a></td>
+								</tr>
+							<tr>
+									<td></td>
+									<td></td>
+									<td align=center><a href="">Back to top</a></td>
+									<td></td>
+								</tr>
+	 						</table>
+                              		<br>
+                        		</tr>
                         </table>
+
 						
 						<!-- This is the body row: fixed layout -->
 						
@@ -174,8 +455,8 @@ function winopen(url,stuff,morestuff) {
 				<tr>
 					<td bgcolor="#FFFFFF">			     <table width="700" height="20" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed">
                       <tr>
-                        <td width="300" class="copyright">&copy; 2003 GLSA Publications<br></td>
-                        <td width="400" align="right" class="copyright">Last Updated January 18, 2016</td>
+                        <td width="300" class="copyright">&copy; 2020 GLSA Publications<br></td>
+                        <td width="400" align="right" class="copyright">Last Updated August 3, 2020</td>
                       </tr>
                     </table> </td>
 				</tr>

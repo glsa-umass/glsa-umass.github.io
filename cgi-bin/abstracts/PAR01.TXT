@@ -1,3 +1,0 @@
-ABSTRACT
-
-This work helps resolve a perennial controversy in the interface between phonetics and phonology: the physical basis of sonority. It begins with an 86-page summary and critical review of the extant literature on sonority. It then presents the results of an instrumental study of five acoustic and aerodynamic correlates of sonority in English and Spanish: intensity, F1, duration, intraoral air pressure, and air flow. It concludes with a psycholinguistic experiment in which sonority is crucial in accounting for preferred word order in English reduplicative rhymes such as roly-poly.

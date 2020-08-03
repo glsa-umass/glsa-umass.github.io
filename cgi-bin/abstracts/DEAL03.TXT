@@ -1,5 +1,0 @@
-Abstract
-
-This dissertation presents a formal theory of markedness, set within Optimality Theory.  Two of the leading ideas are (a) hierarchical markedness relations may be ignored, but never reversed and (b) the more marked an element is, the greater the pressure to preserve it.  Phenomena discussed include sonority-driven stress, epenthesis, Place neutralization, assimilation, and coalescence.
-
-
